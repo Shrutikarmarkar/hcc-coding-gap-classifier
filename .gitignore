@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw data dumps (large, re-downloadable — never commit these)
+data/raw/
+
+# OS junk
+.DS_Store
+
+# Environment secrets (if you ever add API keys)
+.env
