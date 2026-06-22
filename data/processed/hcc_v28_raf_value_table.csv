@@ -1,0 +1,116 @@
+hcc_code,raf_weight_cna,label
+HCC49,9.256,Specified Lysosomal Storage Disorders
+HCC111,4.639,"Hemophilia, Male"
+HCC17,4.209,"Cancer Metastatic to Lung, Liver, Brain, and Other Organs; Acute Myeloid Leukemia Except Promyelocytic"
+HCC195,2.909,Myasthenia Gravis with (Acute) Exacerbation
+HCC276,2.531,Lung Transplant Status/Complications
+HCC223,2.505,Heart Failure with Heart Assist Device/Artificial Heart
+HCC222,2.505,End-Stage Heart Failure
+HCC18,2.341,"Cancer Metastatic to Bone, Other and Unspecified Metastatic Cancer; Acute Leukemia Except Myeloid"
+HCC114,2.262,Common Variable and Combined Immunodeficiencies
+HCC379,1.965,"Pressure Ulcer of Skin with Necrosis Through to Muscle, Tendon, or Bone"
+HCC19,1.798,"Myelodysplastic Syndromes, Multiple Myeloma, and Other Cancers"
+HCC193,1.692,Chronic Inflammatory Demyelinating Polyneuritis and Multifocal Motor Neuropathy
+HCC385,1.291,Severe Skin Burn
+HCC190,1.175,"Amyotrophic Lateral Sclerosis and Other Motor Neuron Disease, Spinal Muscular Atrophy"
+HCC77,1.172,Intestine Transplant Status/Complications
+HCC109,1.144,"Acquired Hemolytic, Aplastic, and Sideroblastic Anemias"
+HCC20,1.136,Lung and Other Severe Cancers
+HCC180,1.125,Quadriplegia
+HCC263,1.118,Atherosclerosis of Arteries of the Extremities with Ulceration or Gangrene
+HCC380,1.078,"Chronic Ulcer of Skin, Except Pressure, Through to Bone or Muscle"
+HCC381,1.075,Pressure Ulcer of Skin with Full Thickness Skin Loss
+HCC454,1.068,"Stem Cell, Including Bone Marrow, Transplant Status/Complications"
+HCC221,1.053,Heart Transplant Status/Complications
+HCC277,0.998,Cystic Fibrosis
+HCC63,0.962,Chronic Liver Failure/End-Stage Liver Disorders
+HCC35,0.949,Pancreas Transplant Status
+HCC181,0.942,Paraplegia
+HCC211,0.879,Respirator Dependence/Tracheostomy Status/Complications
+HCC191,0.855,Quadriplegic Cerebral Palsy
+HCC382,0.838,Pressure Ulcer of Skin with Partial Thickness Skin Loss
+HCC278,0.818,Idiopathic Pulmonary Fibrosis and Lung Involvement in Systemic Sclerosis
+HCC279,0.818,Severe Persistent Asthma
+HCC326,0.815,"Chronic Kidney Disease, Stage 5"
+HCC463,0.673,Artificial Openings for Feeding or Elimination
+HCC21,0.671,Lymphoma and Other Cancers
+HCC50,0.648,"Amyloidosis, Porphyria, and Other Specified Metabolic Disorders"
+HCC198,0.647,Multiple Sclerosis
+HCC383,0.646,"Chronic Ulcer of Skin, Except Pressure, Not Specified as Through to Bone or Muscle"
+HCC93,0.617,Rheumatoid Arthritis and Other Specified Inflammatory Rheumatic Disorders
+HCC199,0.615,Parkinson and Other Degenerative Disease of Basal Ganglia
+HCC405,0.598,Traumatic Amputations and Complications
+HCC409,0.598,"Amputation Status, Lower Limb/Amputation Complications"
+HCC300,0.596,Exudative Macular Degeneration
+HCC115,0.565,Specified Immunodeficiencies and White Blood Cell Disorders
+HCC80,0.55,Crohns Disease (Regional Enteritis)
+HCC202,0.543,"Coma, Brain Compression/Anoxic Damage"
+HCC401,0.522,Vertebral Fractures without Spinal Cord Injury
+HCC196,0.516,Myasthenia Gravis without (Acute) Exacerbation and Other Myoneural Disorders
+HCC327,0.514,"Chronic Kidney Disease, Severe (Stage 4)"
+HCC151,0.511,Schizophrenia
+HCC51,0.51,"Addisons and Cushings Diseases, Acromegaly, and Other Specified Endocrine Disorders"
+HCC2,0.5,"Septicemia, Sepsis, Systemic Inflammatory Response Syndrome/Shock"
+HCC152,0.484,"Psychosis, Except Schizophrenia"
+HCC92,0.479,Bone/Joint/Muscle/Severe Soft Tissue Infections/Necrosis
+HCC182,0.478,Spinal Cord Disorders/Injuries
+HCC402,0.467,Hip Fracture/Dislocation
+HCC107,0.457,Sickle Cell Anemia (Hb-SS) and Thalassemia Beta Zero
+HCC264,0.455,Vascular Disease with Complications
+HCC112,0.45,Immune Thrombocytopenia and Specified Coagulation Defects and Hemorrhagic Conditions
+HCC64,0.447,Cirrhosis of Liver
+HCC282,0.44,Aspiration and Specified Bacterial Pneumonias
+HCC197,0.426,Muscular Dystrophy
+HCC137,0.424,"Drug Use Disorder, Moderate/Severe, or Drug Use with Non-Psychotic Complications"
+HCC136,0.424,Alcohol Use with Psychotic Complications
+HCC135,0.424,Drug Use with Psychotic Complications
+HCC138,0.423,"Drug Use Disorder, Mild, Uncomplicated, Except Cannabis"
+HCC387,0.406,"Pemphigus, Pemphigoid, and Other Specified Autoimmune Skin Disorders"
+HCC153,0.396,Personality Disorders; Anorexia/Bulimia Nervosa
+HCC68,0.388,Cholangitis and Obstruction of Bile Duct Without Gallstones
+HCC253,0.387,Hemiplegia/Hemiparesis
+HCC6,0.381,Opportunistic Infections
+HCC62,0.376,Liver Transplant Status/Complications
+HCC213,0.37,Cardio-Respiratory Failure and Shock
+HCC212,0.37,Respiratory Arrest
+HCC22,0.363,"Bladder, Colorectal, and Other Cancers"
+HCC224,0.36,Acute on Chronic Heart Failure
+HCC225,0.36,Acute Heart Failure (Excludes Acute on Chronic)
+HCC226,0.36,"Heart Failure, Except End-Stage and Acute"
+HCC79,0.357,Chronic Pancreatitis
+HCC154,0.351,Bipolar Disorders without Psychosis
+HCC127,0.341,"Dementia, Mild or Unspecified"
+HCC125,0.341,"Dementia, Severe"
+HCC126,0.341,"Dementia, Moderate"
+HCC298,0.336,"Severe Diabetic Eye Disease, Retinal Vein Occlusion, and Vitreous Hemorrhage"
+HCC78,0.326,Intestinal Obstruction/Perforation
+HCC254,0.321,"Monoplegia, Other Paralytic Syndromes"
+HCC280,0.319,"Chronic Obstructive Pulmonary Disease, Interstitial Lung Disorders, and Other Chronic Lung Disorders"
+HCC192,0.314,"Cerebral Palsy, Except Quadriplegic"
+HCC1,0.301,HIV/AIDS
+HCC155,0.299,"Major Depression, Moderate or Severe, without Psychosis"
+HCC238,0.299,Specified Heart Arrhythmias
+HCC267,0.294,Deep Vein Thrombosis and Pulmonary Embolism
+HCC200,0.279,Friedreich and Other Hereditary Ataxias; Huntington Disease
+HCC94,0.268,Systemic Lupus Erythematosus and Other Specified Systemic Connective Tissue Disorders
+HCC228,0.252,Acute Myocardial Infarction
+HCC201,0.245,Seizure Disorders and Convulsions
+HCC81,0.244,Ulcerative Colitis
+HCC139,0.242,"Alcohol Use Disorder, Moderate/Severe, or Alcohol Use with Specified Non-Psychotic Complications"
+HCC229,0.24,Unstable Angina and Other Acute Ischemic Heart Disease
+HCC249,0.239,Ischemic or Unspecified Stroke
+HCC248,0.239,Intracranial Hemorrhage
+HCC283,0.204,"Empyema, Lung Abscess"
+HCC398,0.199,Major Head Injury with Loss of Consciousness < 1 Hour or Unspecified
+HCC397,0.199,Major Head Injury with Loss of Consciousness > 1 Hour
+HCC399,0.199,Major Head Injury without Loss of Consciousness
+HCC227,0.189,Cardiomyopathy/Myocarditis
+HCC23,0.186,"Prostate, Breast, and Other Cancers and Tumors"
+HCC48,0.186,Morbid Obesity
+HCC65,0.185,Chronic Hepatitis
+HCC36,0.166,Diabetes with Severe Acute Complications
+HCC37,0.166,Diabetes with Chronic Complications
+HCC38,0.166,"Diabetes with Glycemic, Unspecified, or No Complications"
+HCC108,0.146,"Sickle Cell Disorders, Except Sickle Cell Anemia (Hb-SS) and Thalassemia Beta Zero; Beta Thalassemia Major"
+HCC329,0.127,"Chronic Kidney Disease, Moderate (Stage 3, Except 3B)"
+HCC328,0.127,"Chronic Kidney Disease, Moderate (Stage 3B)"
