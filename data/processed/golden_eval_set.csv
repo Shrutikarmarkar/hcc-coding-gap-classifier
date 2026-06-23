@@ -40,3 +40,108 @@ SP_RA_OA,"Some joint aches, otherwise fine.",Insufficient,M069,HCC93,0.617
 SP_RA_OA,"Hx of arthritis, no flare today.",Insufficient,M069,HCC93,0.617
 SP_RA_OA,"Pt in for vaccine, no complaints.",Unsupported,M069,HCC93,0.617
 SP_RA_OA,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",Unsupported,M069,HCC93,0.617
+SP_DIABETES,"Type 2 DM with documented diabetic kidney disease, nephrology co-managing, urine ACR elevated at 726.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Type 2 DM with documented diabetic kidney disease, nephrology co-managing, urine ACR elevated at 301.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Type 2 DM with documented diabetic kidney disease, nephrology co-managing, urine ACR elevated at 500.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"DM2 c/b diabetic nephropathy; recent Cr 2.0, microalbuminuria confirmed on UA.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Type 2 DM with documented diabetic kidney disease, nephrology co-managing, urine ACR elevated at 581.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Diabetic, labs pending x2 weeks, continue current meds.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,"T2DM noted in PMH for 5 years, no specific complications documented this visit.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,"Diabetic, labs pending x1 weeks, continue current meds.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,"T2DM noted in PMH for 4 years, no specific complications documented this visit.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,"T2DM noted in PMH for 6 years, no specific complications documented this visit.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,Pt denies any diabetes history; here for unrelated knee pain x4 weeks.,Unsupported,E1122,HCC37,0.166
+SP_DIABETES,"Gestational diabetes resolved 9 years after delivery, no current diabetic diagnosis.",Unsupported,E1122,HCC37,0.166
+SP_DIABETES,"Gestational diabetes resolved 8 years after delivery, no current diabetic diagnosis.",Unsupported,E1122,HCC37,0.166
+SP_DIABETES,"Gestational diabetes resolved 3 years after delivery, no current diabetic diagnosis.",Unsupported,E1122,HCC37,0.166
+SP_DIABETES,Pt denies any diabetes history; here for unrelated knee pain x2 weeks.,Unsupported,E1122,HCC37,0.166
+SP_CHF,Echo 6 months ago revealed EF 33%; pt symptomatic with class III heart failure on exam.,Fully Supported,I509,HCC226,0.36
+SP_CHF,"Decompensated heart failure requiring hospitalization 1 weeks ago; BNP elevated at admission, now euvolemic.",Fully Supported,I509,HCC226,0.36
+SP_CHF,Echo 6 months ago revealed EF 34%; pt symptomatic with class III heart failure on exam.,Fully Supported,I509,HCC226,0.36
+SP_CHF,"Decompensated heart failure requiring hospitalization 4 weeks ago; BNP elevated at admission, now euvolemic.",Fully Supported,I509,HCC226,0.36
+SP_CHF,Echo 4 months ago revealed EF 27%; pt symptomatic with class III heart failure on exam.,Fully Supported,I509,HCC226,0.36
+SP_CHF,"Cardiac hx significant x9 years, no acute distress today.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Hx of heart issues, ambulates without difficulty over past 3 weeks.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Cardiac hx significant x2 years, no acute distress today.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Hx of heart issues, ambulates without difficulty over past 7 weeks.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Cardiac hx significant x8 years, no acute distress today.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Pt here for routine labs x4 weeks f/u, cardiovascular exam unremarkable.",Unsupported,I509,HCC226,0.36
+SP_CHF,"EF 58% on recent echo, no heart failure symptoms reported.",Unsupported,I509,HCC226,0.36
+SP_CHF,"EF 61% on recent echo, no heart failure symptoms reported.",Unsupported,I509,HCC226,0.36
+SP_CHF,"Pt here for routine labs x7 weeks f/u, cardiovascular exam unremarkable.",Unsupported,I509,HCC226,0.36
+SP_CHF,"Pt here for routine labs x8 weeks f/u, cardiovascular exam unremarkable.",Unsupported,I509,HCC226,0.36
+SP_COPD,"Severe COPD, FEV1 37% of predicted, on supplemental O2 at home.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Severe COPD, FEV1 43% of predicted, on supplemental O2 at home.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Severe COPD, FEV1 29% of predicted, on supplemental O2 at home.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Documented COPD GOLD stage 3, frequent rescue inhaler use, baseline dyspnea on exertion.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Documented COPD GOLD stage 4, frequent rescue inhaler use, baseline dyspnea on exertion.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Hx of lung disease x3 years, breathing okay today.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Hx of lung disease x6 years, breathing okay today.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Former smoker, mild cough x4 weeks, no further workup.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Former smoker, mild cough x2 weeks, no further workup.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Hx of lung disease x12 years, breathing okay today.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Pt presents for vaccination, lungs clear, no respiratory complaints x7 weeks.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Pt presents for vaccination, lungs clear, no respiratory complaints x8 weeks.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Pt presents for vaccination, lungs clear, no respiratory complaints x6 weeks.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Pt presents for vaccination, lungs clear, no respiratory complaints x5 weeks.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Asthma well controlled x8 years, no COPD diagnosis on chart.",Unsupported,J449,HCC280,0.319
+SP_CHRNKIDN,"Stage 5 CKD confirmed, GFR 14, transplant eval underway.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"ESRD on dialysis via AV graft, last session 1 days ago, K+ within range.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"ESRD on dialysis via AV graft, last session 2 days ago, K+ within range.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Stage 5 CKD confirmed, GFR 8, transplant eval underway.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Stage 5 CKD confirmed, GFR 10, transplant eval underway.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Hx of kidney trouble per old chart from 5 years back, no current workup.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Hx of kidney trouble per old chart from 4 years back, no current workup.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Renal labs slightly abnormal x4 weeks, will repeat next visit.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Renal labs slightly abnormal x1 weeks, will repeat next visit.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Hx of kidney trouble per old chart from 3 years back, no current workup.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Pt seen for med refill x1 weeks, renal function not addressed.",Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,"S/p kidney transplant 4 years ago, graft functioning well, creatinine normal.",Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,"S/p kidney transplant 1 years ago, graft functioning well, creatinine normal.",Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,"S/p kidney transplant 10 years ago, graft functioning well, creatinine normal.",Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,"S/p kidney transplant 9 years ago, graft functioning well, creatinine normal.",Unsupported,N185,HCC326,0.815
+SP_STRKETIA,"CVA 8 months ago, residual left hemiparesis, continues PT/OT, on antiplatelet therapy.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Acute infarct confirmed on imaging, NIHSS 6 at presentation, now stable on secondary prevention.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Acute infarct confirmed on imaging, NIHSS 7 at presentation, now stable on secondary prevention.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Acute infarct confirmed on imaging, NIHSS 5 at presentation, now stable on secondary prevention.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"CVA 2 months ago, residual left hemiparesis, continues PT/OT, on antiplatelet therapy.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Hx of stroke per chart from 3 years ago, no current deficits noted.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Pt mentions a 'mini-stroke' 3 years ago, unclear records.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Hx of stroke per chart from 9 years ago, no current deficits noted.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Hx of stroke per chart from 4 years ago, no current deficits noted.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Hx of stroke per chart from 7 years ago, no current deficits noted.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"TIA ruled out after workup 4 weeks ago, no stroke diagnosis confirmed.",Unsupported,I639,HCC249,0.239
+SP_STRKETIA,"Routine visit, neuro exam grossly intact x4 weeks, no stroke history elicited.",Unsupported,I639,HCC249,0.239
+SP_STRKETIA,"TIA ruled out after workup 2 weeks ago, no stroke diagnosis confirmed.",Unsupported,I639,HCC249,0.239
+SP_STRKETIA,"Routine visit, neuro exam grossly intact x6 weeks, no stroke history elicited.",Unsupported,I639,HCC249,0.239
+SP_STRKETIA,"Routine visit, neuro exam grossly intact x7 weeks, no stroke history elicited.",Unsupported,I639,HCC249,0.239
+SP_ALZHDMTA,"AD diagnosis confirmed via neuropsych testing, MMSE 18, family providing 24/7 supervision.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"AD diagnosis confirmed via neuropsych testing, MMSE 17, family providing 24/7 supervision.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"Moderate dementia, MoCA 9, increasing care needs noted by caregiver.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"AD diagnosis confirmed via neuropsych testing, MMSE 15, family providing 24/7 supervision.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"AD diagnosis confirmed via neuropsych testing, MMSE 11, family providing 24/7 supervision.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"Family notes mild forgetfulness x7 weeks, otherwise functioning independently.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"Family notes mild forgetfulness x3 weeks, otherwise functioning independently.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"Cognitive complaints raised 3 months ago, formal testing not yet done.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"Cognitive complaints raised 2 months ago, formal testing not yet done.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"Cognitive complaints raised 4 months ago, formal testing not yet done.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,Pt's spouse has dementia diagnosed 6 years ago; patient himself is cognitively intact.,Unsupported,G309,HCC127,0.341
+SP_ALZHDMTA,"Cognitive screen normal today, no concerns raised x7 weeks.",Unsupported,G309,HCC127,0.341
+SP_ALZHDMTA,Pt's spouse has dementia diagnosed 1 years ago; patient himself is cognitively intact.,Unsupported,G309,HCC127,0.341
+SP_ALZHDMTA,"Cognitive screen normal today, no concerns raised x5 weeks.",Unsupported,G309,HCC127,0.341
+SP_ALZHDMTA,Pt's spouse has dementia diagnosed 7 years ago; patient himself is cognitively intact.,Unsupported,G309,HCC127,0.341
+SP_RA_OA,"Active RA, DAS28 score 6.2, on combination DMARD therapy.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Seropositive RA with synovitis on exam x1 weeks, rheumatology adjusting biologics.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Active RA, DAS28 score 4.3, on combination DMARD therapy.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Active RA, DAS28 score 5.5, on combination DMARD therapy.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Active RA, DAS28 score 5.6, on combination DMARD therapy.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Hx of inflammatory arthritis from 4 years ago, currently asymptomatic.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Hx of inflammatory arthritis from 3 years ago, currently asymptomatic.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Hx of inflammatory arthritis from 1 years ago, currently asymptomatic.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Joint stiffness reported x8 weeks, etiology unclear.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Joint stiffness reported x3 weeks, etiology unclear.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Knee pain attributed to injury 7 weeks ago, no inflammatory arthritis present.",Unsupported,M069,HCC93,0.617
+SP_RA_OA,"Knee pain attributed to injury 1 weeks ago, no inflammatory arthritis present.",Unsupported,M069,HCC93,0.617
+SP_RA_OA,"OA of hips noted on imaging 5 years ago, RA serologies negative.",Unsupported,M069,HCC93,0.617
+SP_RA_OA,"Knee pain attributed to injury 3 weeks ago, no inflammatory arthritis present.",Unsupported,M069,HCC93,0.617
+SP_RA_OA,"OA of hips noted on imaging 4 years ago, RA serologies negative.",Unsupported,M069,HCC93,0.617
