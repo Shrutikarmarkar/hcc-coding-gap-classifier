@@ -29,7 +29,20 @@ Billed risk-adjustment category: {billed_hcc}
 Clinical note:
 \"\"\"{note_text}\"\"\"
 
-Does this clinical note's documentation sufficiently support the billed diagnosis/category above?
+Classify the documentation using EXACTLY one of these three labels:
+
+Fully Supported - The note explicitly documents the specific clinical detail
+(lab value, severity, complication, staging) required to justify this exact
+billed category, not just the general disease.
+
+Insufficient - The note mentions the condition or related symptoms, but
+lacks the specific clinical detail needed to justify this billed category.
+The condition is present in the note, just not proven with enough detail.
+
+Unsupported - The note does not mention this condition at all, describes a
+different/unrelated condition, or only mentions it in a context that doesn't
+apply to the patient (e.g. family history, a resolved past condition, or a
+different subtype of the disease).
 
 Respond with EXACTLY one of these three labels, nothing else:
 Fully Supported
