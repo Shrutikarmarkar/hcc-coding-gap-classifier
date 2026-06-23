@@ -6,7 +6,7 @@ SP_DIABETES,"Hx of DM, no complaints today.",Insufficient,E1122,HCC37,0.166
 SP_DIABETES,"Pt here for med refill, no new issues.",Unsupported,E1122,HCC37,0.166
 SP_DIABETES,"Brittle type 1 diabetes since childhood, frequent hypoglycemic episodes, on insulin pump.",Unsupported,E1122,HCC37,0.166
 SP_CHF,"Echo last month showed EF of 28%, discussed worsening systolic function and diuretic adjustment.",Fully Supported,I509,HCC226,0.36
-SP_CHF,"Admitted last week for heart failure exacerbation, now on optimized GDMT, NYHA III symptoms persist.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Admitted last week for heart failure exacerbation, now on optimized GDMT, NYHA III symptoms persist.",Insufficient,I509,HCC226,0.36
 SP_CHF,"Heart's been a little weak, watching it.",Insufficient,I509,HCC226,0.36
 SP_CHF,"Pt mentions some fatigue, hx of cardiac issues.",Insufficient,I509,HCC226,0.36
 SP_CHF,"Annual physical, unremarkable.",Unsupported,I509,HCC226,0.36
@@ -56,9 +56,9 @@ SP_DIABETES,"Gestational diabetes resolved 8 years after delivery, no current di
 SP_DIABETES,"Gestational diabetes resolved 3 years after delivery, no current diabetic diagnosis.",Unsupported,E1122,HCC37,0.166
 SP_DIABETES,Pt denies any diabetes history; here for unrelated knee pain x2 weeks.,Unsupported,E1122,HCC37,0.166
 SP_CHF,Echo 6 months ago revealed EF 33%; pt symptomatic with class III heart failure on exam.,Fully Supported,I509,HCC226,0.36
-SP_CHF,"Decompensated heart failure requiring hospitalization 1 weeks ago; BNP elevated at admission, now euvolemic.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Decompensated heart failure requiring hospitalization 1 weeks ago; BNP elevated at admission, now euvolemic.",Insufficient,I509,HCC226,0.36
 SP_CHF,Echo 6 months ago revealed EF 34%; pt symptomatic with class III heart failure on exam.,Fully Supported,I509,HCC226,0.36
-SP_CHF,"Decompensated heart failure requiring hospitalization 4 weeks ago; BNP elevated at admission, now euvolemic.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Decompensated heart failure requiring hospitalization 4 weeks ago; BNP elevated at admission, now euvolemic.",Insufficient,I509,HCC226,0.36
 SP_CHF,Echo 4 months ago revealed EF 27%; pt symptomatic with class III heart failure on exam.,Fully Supported,I509,HCC226,0.36
 SP_CHF,"Cardiac hx significant x9 years, no acute distress today.",Insufficient,I509,HCC226,0.36
 SP_CHF,"Hx of heart issues, ambulates without difficulty over past 3 weeks.",Insufficient,I509,HCC226,0.36

@@ -1,2 +1,4 @@
 hccinfhir
 pandas
+anthropic
+python-dotenv
