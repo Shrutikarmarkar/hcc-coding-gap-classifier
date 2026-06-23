@@ -1,0 +1,42 @@
+condition_flag,note_text,label,billed_icd10_code,billed_hcc,billed_raf_value
+SP_DIABETES,"DM2 w/ nephropathy noted on last labs (Cr 2.1, eGFR 29); continues lisinopril for renal protection.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Diabetic kidney disease confirmed, referred to nephrology, A1c 8.2, microalbuminuria present.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Sugar levels a little high, will recheck next visit.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,"Hx of DM, no complaints today.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,"Pt here for med refill, no new issues.",Unsupported,E1122,HCC37,0.166
+SP_DIABETES,"Brittle type 1 diabetes since childhood, frequent hypoglycemic episodes, on insulin pump.",Unsupported,E1122,HCC37,0.166
+SP_CHF,"Echo last month showed EF of 28%, discussed worsening systolic function and diuretic adjustment.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Admitted last week for heart failure exacerbation, now on optimized GDMT, NYHA III symptoms persist.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Heart's been a little weak, watching it.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Pt mentions some fatigue, hx of cardiac issues.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Annual physical, unremarkable.",Unsupported,I509,HCC226,0.36
+SP_CHF,"Preserved EF 55% on recent echo, mild diastolic dysfunction only.",Insufficient,I509,HCC226,0.36
+SP_COPD,"Spirometry confirms severe obstruction, FEV1/FVC ratio reduced, on triple inhaler therapy.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"COPD exacerbation x2 this year requiring steroids, baseline O2 sat 88% on room air.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Smoker, occasional cough.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Lung issues, nothing acute.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Routine BP check, all stable.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Uses home oxygen 2L NC, prior PFTs unavailable.",Insufficient,J449,HCC280,0.319
+SP_CHRNKIDN,"Dialysis 3x/week per renal team, access via AV fistula, last K+ 4.8.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Creatinine continues to climb, GFR under 15, transplant workup initiated.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Renal function not great, will keep an eye on it.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,Pt's kidneys have been an issue per old records.,Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Follow up visit, denies new symptoms.",Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,"Kidney transplant recipient, stable graft function, creatinine within normal limits.",Unsupported,N185,HCC326,0.815
+SP_STRKETIA,"S/p CVA 6 months ago, residual right-sided weakness, continues clopidogrel.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"MRI confirmed infarct in MCA territory, now in outpatient PT for gait training.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Pt mentions a stroke a while back, seems fine now.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Old neuro event per chart, no current deficits noted.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Here for flu shot, no concerns.",Unsupported,I639,HCC249,0.239
+SP_STRKETIA,"Family history of stroke, patient has no personal history of cerebrovascular events.",Unsupported,I639,HCC249,0.239
+SP_ALZHDMTA,"MMSE scored 12 today, family reports increasing reliance on caregiver for ADLs.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"Progressive memory loss consistent with AD, now requires supervision at home.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,A little more forgetful than usual per spouse.,Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"Pt seems okay today, family didn't raise concerns.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"Routine eye exam referral, no other issues.",Unsupported,G309,HCC127,0.341
+SP_RA_OA,"Positive RF/anti-CCP, synovitis in MCPs bilaterally, increasing methotrexate dose.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Rheum following for RA, morning stiffness over one hour, new hand swelling noted.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Some joint aches, otherwise fine.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Hx of arthritis, no flare today.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Pt in for vaccine, no complaints.",Unsupported,M069,HCC93,0.617
+SP_RA_OA,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",Unsupported,M069,HCC93,0.617
