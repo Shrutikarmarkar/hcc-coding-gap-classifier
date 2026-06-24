@@ -13552,3 +13552,429 @@ FFFF7C107A4E385A,56,F,SP_COPD,J449,HCC280,0.319,COPD on home oxygen; recent PFTs
 FFFF7C107A4E385A,56,F,SP_CHRNKIDN,N185,HCC326,0.815,"Chronic kidney disease stage 5, eGFR 13, on hemodialysis three times weekly.",full,Fully Supported
 FFFF7C107A4E385A,56,F,SP_ALZHDMTA,G309,HCC127,0.341,Patient seems a bit forgetful lately.,vague,Insufficient
 FFFF7C107A4E385A,56,F,SP_RA_OA,M069,HCC93,0.617,"History of arthritis, no specific complaints today.",vague,Insufficient
+HARDNEG_SP_DIABETES_000,84,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 7 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_001,89,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 4 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_002,81,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes; patient's own glucose tolerance test normal.,hard_negative,Unsupported
+HARDNEG_SP_DIABETES_003,77,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 95, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_004,83,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 3 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_005,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes diagnosed in childhood, on insulin pump, no renal involvement reported.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_006,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 71, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_007,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 76, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_008,84,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 8 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_009,71,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 1 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_010,84,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 74, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_011,82,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 84, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_012,68,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 97, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_013,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 83, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_014,85,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 77, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_CHF_000,87,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 65%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_001,72,F,SP_CHF,I509,HCC226,0.36,Family history of cardiomyopathy; patient's own echo and BNP within normal limits.,hard_negative,Unsupported
+HARDNEG_SP_CHF_002,79,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 59%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_003,90,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 65%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_004,78,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 57%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_005,86,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 59%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_006,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 61%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_007,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 63%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_008,71,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 64%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_009,83,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 56%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_010,77,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 56%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_011,69,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 62%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_012,79,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 58%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_013,66,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 55%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_014,82,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 57%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_COPD_000,85,F,SP_COPD,J449,HCC280,0.319,Occupational dust exposure history noted; pulmonary function testing not yet performed.,hard_negative,Unsupported
+HARDNEG_SP_COPD_001,90,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 90% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_002,90,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 86% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_003,70,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_004,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 89% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_005,86,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_006,70,F,SP_COPD,J449,HCC280,0.319,"Asthma diagnosed in childhood, well controlled on inhaled steroids, no COPD diagnosis on chart.",hard_negative,Unsupported
+HARDNEG_SP_COPD_007,75,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 96% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_008,68,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_009,86,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_010,88,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 85% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_011,65,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_012,67,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 97% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_013,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 87% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_014,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 98% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_000,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 72, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_001,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant recipient, stable graft function, creatinine within normal limits.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_002,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 66, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_003,73,M,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal function normal.,hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_004,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 70, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_005,72,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 65, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_006,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 76, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_007,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 85, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_008,81,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 68, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_009,86,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 71, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_010,90,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 79, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_011,89,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 74, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_012,88,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 73, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_013,85,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 78, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_014,81,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 67, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_000,88,M,SP_STRKETIA,I639,HCC249,0.239,"Family history of stroke, patient has no personal history of cerebrovascular events.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_001,68,M,SP_STRKETIA,I639,HCC249,0.239,"TIA symptoms resolved within minutes, full neurologic workup negative for infarct.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_002,73,F,SP_STRKETIA,I639,HCC249,0.239,"Migraine with aura, fully resolved, no infarct seen on imaging.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_000,78,F,SP_ALZHDMTA,G309,HCC127,0.341,Family history of Alzheimer's disease; patient's own cognitive screening normal.,hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_001,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 29/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_002,78,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 28/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_003,76,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during recent hospitalization, fully resolved after treatment, baseline cognition intact.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_004,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 30/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_000,72,F,SP_RA_OA,M069,HCC93,0.617,Family history of rheumatoid arthritis; patient's own rheumatology workup unremarkable.,hard_negative,Unsupported
+HARDNEG_SP_RA_OA_001,75,F,SP_RA_OA,M069,HCC93,0.617,"RA serologies negative, no synovitis on exam, joint complaints attributed to overuse.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_002,73,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_000,84,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 7 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_001,89,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 4 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_002,81,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes; patient's own glucose tolerance test normal.,hard_negative,Unsupported
+HARDNEG_SP_DIABETES_003,77,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 95, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_004,83,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 3 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_005,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes diagnosed in childhood, on insulin pump, no renal involvement reported.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_006,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 71, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_007,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 76, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_008,84,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 8 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_009,71,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 1 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_010,84,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 74, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_011,82,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 84, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_012,68,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 97, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_013,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 83, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_014,85,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 77, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_CHF_000,87,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 65%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_001,72,F,SP_CHF,I509,HCC226,0.36,Family history of cardiomyopathy; patient's own echo and BNP within normal limits.,hard_negative,Unsupported
+HARDNEG_SP_CHF_002,79,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 59%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_003,90,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 65%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_004,78,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 57%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_005,86,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 59%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_006,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 61%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_007,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 63%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_008,71,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 64%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_009,83,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 56%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_010,77,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 56%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_011,69,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 62%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_012,79,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 58%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_013,66,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 55%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_014,82,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 57%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_COPD_000,85,F,SP_COPD,J449,HCC280,0.319,Occupational dust exposure history noted; pulmonary function testing not yet performed.,hard_negative,Unsupported
+HARDNEG_SP_COPD_001,90,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 90% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_002,90,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 86% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_003,70,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_004,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 89% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_005,86,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_006,70,F,SP_COPD,J449,HCC280,0.319,"Asthma diagnosed in childhood, well controlled on inhaled steroids, no COPD diagnosis on chart.",hard_negative,Unsupported
+HARDNEG_SP_COPD_007,75,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 96% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_008,68,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_009,86,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_010,88,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 85% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_011,65,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_012,67,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 97% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_013,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 87% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_014,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 98% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_000,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 72, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_001,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant recipient, stable graft function, creatinine within normal limits.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_002,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 66, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_003,73,M,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal function normal.,hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_004,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 70, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_005,72,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 65, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_006,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 76, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_007,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 85, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_008,81,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 68, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_009,86,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 71, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_010,90,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 79, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_011,89,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 74, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_012,88,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 73, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_013,85,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 78, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_014,81,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 67, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_000,88,M,SP_STRKETIA,I639,HCC249,0.239,"Family history of stroke, patient has no personal history of cerebrovascular events.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_001,68,M,SP_STRKETIA,I639,HCC249,0.239,"TIA symptoms resolved within minutes, full neurologic workup negative for infarct.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_002,73,F,SP_STRKETIA,I639,HCC249,0.239,"Migraine with aura, fully resolved, no infarct seen on imaging.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_000,78,F,SP_ALZHDMTA,G309,HCC127,0.341,Family history of Alzheimer's disease; patient's own cognitive screening normal.,hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_001,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 29/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_002,78,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 28/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_003,76,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during recent hospitalization, fully resolved after treatment, baseline cognition intact.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_004,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 30/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_000,72,F,SP_RA_OA,M069,HCC93,0.617,Family history of rheumatoid arthritis; patient's own rheumatology workup unremarkable.,hard_negative,Unsupported
+HARDNEG_SP_RA_OA_001,75,F,SP_RA_OA,M069,HCC93,0.617,"RA serologies negative, no synovitis on exam, joint complaints attributed to overuse.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_002,73,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_000,84,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 7 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_001,89,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 4 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_002,81,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes; patient's own glucose tolerance test normal.,hard_negative,Unsupported
+HARDNEG_SP_DIABETES_003,77,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 95, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_004,83,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 3 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_005,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes diagnosed in childhood, on insulin pump, no renal involvement reported.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_006,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 71, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_007,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 76, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_008,84,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 8 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_009,71,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 1 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_010,84,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 74, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_011,82,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 84, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_012,68,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 97, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_013,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 83, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_014,85,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 77, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_CHF_000,87,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 65%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_001,72,F,SP_CHF,I509,HCC226,0.36,Family history of cardiomyopathy; patient's own echo and BNP within normal limits.,hard_negative,Unsupported
+HARDNEG_SP_CHF_002,79,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 59%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_003,90,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 65%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_004,78,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 57%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_005,86,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 59%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_006,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 61%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_007,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 63%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_008,71,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 64%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_009,83,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 56%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_010,77,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 56%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_011,69,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 62%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_012,79,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 58%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_013,66,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 55%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_014,82,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 57%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_COPD_000,85,F,SP_COPD,J449,HCC280,0.319,Occupational dust exposure history noted; pulmonary function testing not yet performed.,hard_negative,Unsupported
+HARDNEG_SP_COPD_001,90,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 90% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_002,90,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 86% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_003,70,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_004,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 89% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_005,86,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_006,70,F,SP_COPD,J449,HCC280,0.319,"Asthma diagnosed in childhood, well controlled on inhaled steroids, no COPD diagnosis on chart.",hard_negative,Unsupported
+HARDNEG_SP_COPD_007,75,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 96% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_008,68,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_009,86,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_010,88,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 85% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_011,65,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_012,67,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 97% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_013,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 87% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_014,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 98% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_000,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 72, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_001,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant recipient, stable graft function, creatinine within normal limits.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_002,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 66, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_003,73,M,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal function normal.,hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_004,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 70, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_005,72,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 65, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_006,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 76, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_007,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 85, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_008,81,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 68, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_009,86,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 71, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_010,90,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 79, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_011,89,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 74, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_012,88,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 73, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_013,85,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 78, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_014,81,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 67, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_000,88,M,SP_STRKETIA,I639,HCC249,0.239,"Family history of stroke, patient has no personal history of cerebrovascular events.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_001,68,M,SP_STRKETIA,I639,HCC249,0.239,"TIA symptoms resolved within minutes, full neurologic workup negative for infarct.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_002,73,F,SP_STRKETIA,I639,HCC249,0.239,"Migraine with aura, fully resolved, no infarct seen on imaging.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_000,78,F,SP_ALZHDMTA,G309,HCC127,0.341,Family history of Alzheimer's disease; patient's own cognitive screening normal.,hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_001,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 29/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_002,78,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 28/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_003,76,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during recent hospitalization, fully resolved after treatment, baseline cognition intact.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_004,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 30/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_000,72,F,SP_RA_OA,M069,HCC93,0.617,Family history of rheumatoid arthritis; patient's own rheumatology workup unremarkable.,hard_negative,Unsupported
+HARDNEG_SP_RA_OA_001,75,F,SP_RA_OA,M069,HCC93,0.617,"RA serologies negative, no synovitis on exam, joint complaints attributed to overuse.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_002,73,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_000,84,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 7 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_001,89,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 4 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_002,81,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes; patient's own glucose tolerance test normal.,hard_negative,Unsupported
+HARDNEG_SP_DIABETES_003,77,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 95, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_004,83,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 3 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_005,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes diagnosed in childhood, on insulin pump, no renal involvement reported.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_006,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 71, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_007,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 76, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_008,84,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 8 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_009,71,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 1 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_010,84,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 74, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_011,82,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 84, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_012,68,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 97, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_013,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 83, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_014,85,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 77, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_CHF_000,87,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 65%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_001,72,F,SP_CHF,I509,HCC226,0.36,Family history of cardiomyopathy; patient's own echo and BNP within normal limits.,hard_negative,Unsupported
+HARDNEG_SP_CHF_002,79,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 59%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_003,90,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 65%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_004,78,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 57%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_005,86,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 59%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_006,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 61%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_007,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 63%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_008,71,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 64%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_009,83,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 56%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_010,77,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 56%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_011,69,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 62%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_012,79,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 58%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_013,66,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 55%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_014,82,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 57%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_COPD_000,85,F,SP_COPD,J449,HCC280,0.319,Occupational dust exposure history noted; pulmonary function testing not yet performed.,hard_negative,Unsupported
+HARDNEG_SP_COPD_001,90,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 90% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_002,90,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 86% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_003,70,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_004,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 89% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_005,86,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_006,70,F,SP_COPD,J449,HCC280,0.319,"Asthma diagnosed in childhood, well controlled on inhaled steroids, no COPD diagnosis on chart.",hard_negative,Unsupported
+HARDNEG_SP_COPD_007,75,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 96% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_008,68,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_009,86,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_010,88,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 85% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_011,65,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_012,67,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 97% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_013,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 87% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_014,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 98% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_000,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 72, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_001,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant recipient, stable graft function, creatinine within normal limits.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_002,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 66, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_003,73,M,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal function normal.,hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_004,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 70, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_005,72,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 65, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_006,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 76, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_007,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 85, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_008,81,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 68, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_009,86,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 71, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_010,90,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 79, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_011,89,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 74, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_012,88,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 73, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_013,85,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 78, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_014,81,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 67, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_000,88,M,SP_STRKETIA,I639,HCC249,0.239,"Family history of stroke, patient has no personal history of cerebrovascular events.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_001,68,M,SP_STRKETIA,I639,HCC249,0.239,"TIA symptoms resolved within minutes, full neurologic workup negative for infarct.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_002,73,F,SP_STRKETIA,I639,HCC249,0.239,"Migraine with aura, fully resolved, no infarct seen on imaging.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_000,78,F,SP_ALZHDMTA,G309,HCC127,0.341,Family history of Alzheimer's disease; patient's own cognitive screening normal.,hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_001,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 29/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_002,78,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 28/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_003,76,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during recent hospitalization, fully resolved after treatment, baseline cognition intact.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_004,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 30/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_000,72,F,SP_RA_OA,M069,HCC93,0.617,Family history of rheumatoid arthritis; patient's own rheumatology workup unremarkable.,hard_negative,Unsupported
+HARDNEG_SP_RA_OA_001,75,F,SP_RA_OA,M069,HCC93,0.617,"RA serologies negative, no synovitis on exam, joint complaints attributed to overuse.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_002,73,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_000,84,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 7 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_001,89,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 4 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_002,81,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes; patient's own glucose tolerance test normal.,hard_negative,Unsupported
+HARDNEG_SP_DIABETES_003,77,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 95, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_004,83,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 3 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_005,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes diagnosed in childhood, on insulin pump, no renal involvement reported.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_006,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 71, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_007,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 76, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_008,84,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 8 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_009,71,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 1 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_010,84,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 74, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_011,82,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 84, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_012,68,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 97, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_013,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 83, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_014,85,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 77, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_CHF_000,87,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 65%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_001,72,F,SP_CHF,I509,HCC226,0.36,Family history of cardiomyopathy; patient's own echo and BNP within normal limits.,hard_negative,Unsupported
+HARDNEG_SP_CHF_002,79,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 59%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_003,90,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 65%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_004,78,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 57%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_005,86,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 59%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_006,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 61%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_007,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 63%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_008,71,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 64%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_009,83,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 56%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_010,77,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 56%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_011,69,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 62%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_012,79,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 58%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_013,66,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 55%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_014,82,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 57%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_COPD_000,85,F,SP_COPD,J449,HCC280,0.319,Occupational dust exposure history noted; pulmonary function testing not yet performed.,hard_negative,Unsupported
+HARDNEG_SP_COPD_001,90,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 90% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_002,90,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 86% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_003,70,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_004,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 89% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_005,86,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_006,70,F,SP_COPD,J449,HCC280,0.319,"Asthma diagnosed in childhood, well controlled on inhaled steroids, no COPD diagnosis on chart.",hard_negative,Unsupported
+HARDNEG_SP_COPD_007,75,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 96% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_008,68,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_009,86,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_010,88,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 85% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_011,65,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_012,67,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 97% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_013,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 87% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_014,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 98% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_000,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 72, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_001,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant recipient, stable graft function, creatinine within normal limits.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_002,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 66, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_003,73,M,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal function normal.,hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_004,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 70, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_005,72,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 65, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_006,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 76, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_007,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 85, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_008,81,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 68, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_009,86,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 71, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_010,90,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 79, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_011,89,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 74, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_012,88,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 73, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_013,85,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 78, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_014,81,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 67, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_000,88,M,SP_STRKETIA,I639,HCC249,0.239,"Family history of stroke, patient has no personal history of cerebrovascular events.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_001,68,M,SP_STRKETIA,I639,HCC249,0.239,"TIA symptoms resolved within minutes, full neurologic workup negative for infarct.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_002,73,F,SP_STRKETIA,I639,HCC249,0.239,"Migraine with aura, fully resolved, no infarct seen on imaging.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_000,78,F,SP_ALZHDMTA,G309,HCC127,0.341,Family history of Alzheimer's disease; patient's own cognitive screening normal.,hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_001,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 29/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_002,78,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 28/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_003,76,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during recent hospitalization, fully resolved after treatment, baseline cognition intact.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_004,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 30/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_000,72,F,SP_RA_OA,M069,HCC93,0.617,Family history of rheumatoid arthritis; patient's own rheumatology workup unremarkable.,hard_negative,Unsupported
+HARDNEG_SP_RA_OA_001,75,F,SP_RA_OA,M069,HCC93,0.617,"RA serologies negative, no synovitis on exam, joint complaints attributed to overuse.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_002,73,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_000,84,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 7 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_001,89,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 4 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_002,81,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes; patient's own glucose tolerance test normal.,hard_negative,Unsupported
+HARDNEG_SP_DIABETES_003,77,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 95, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_004,83,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 3 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_005,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes diagnosed in childhood, on insulin pump, no renal involvement reported.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_006,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 71, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_007,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 76, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_008,84,F,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 8 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_009,71,M,SP_DIABETES,E1122,HCC37,0.166,"Gestational diabetes during pregnancy 1 years ago, resolved postpartum.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_010,84,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 74, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_011,82,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 84, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_012,68,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 97, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_013,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 83, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_DIABETES_014,85,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetic nephropathy ruled out; recent eGFR 77, no proteinuria on UA.",hard_negative,Unsupported
+HARDNEG_SP_CHF_000,87,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 65%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_001,72,F,SP_CHF,I509,HCC226,0.36,Family history of cardiomyopathy; patient's own echo and BNP within normal limits.,hard_negative,Unsupported
+HARDNEG_SP_CHF_002,79,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 59%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_003,90,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 65%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_004,78,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 57%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_005,86,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 59%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_006,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 61%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_007,71,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 63%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_008,71,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 64%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_009,83,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 56%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_010,77,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 56%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_011,69,M,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 62%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_012,79,F,SP_CHF,I509,HCC226,0.36,"History of peripartum cardiomyopathy, fully resolved, EF normalized to 58%.",hard_negative,Unsupported
+HARDNEG_SP_CHF_013,66,F,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 55%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_CHF_014,82,M,SP_CHF,I509,HCC226,0.36,"Preserved ejection fraction 57%, no heart failure symptoms, cardiac exam unremarkable.",hard_negative,Unsupported
+HARDNEG_SP_COPD_000,85,F,SP_COPD,J449,HCC280,0.319,Occupational dust exposure history noted; pulmonary function testing not yet performed.,hard_negative,Unsupported
+HARDNEG_SP_COPD_001,90,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 90% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_002,90,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 86% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_003,70,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_004,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 89% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_005,86,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_006,70,F,SP_COPD,J449,HCC280,0.319,"Asthma diagnosed in childhood, well controlled on inhaled steroids, no COPD diagnosis on chart.",hard_negative,Unsupported
+HARDNEG_SP_COPD_007,75,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 96% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_008,68,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_009,86,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_010,88,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 85% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_011,65,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_012,67,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 97% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_013,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 87% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_COPD_014,81,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 98% predicted, no obstructive pattern.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_000,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 72, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_001,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant recipient, stable graft function, creatinine within normal limits.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_002,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 66, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_003,73,M,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal function normal.,hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_004,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 70, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_005,72,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 65, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_006,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 76, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_007,75,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 85, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_008,81,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 68, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_009,86,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 71, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_010,90,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 79, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_011,89,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 74, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_012,88,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 73, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_013,85,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 78, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_CHRNKIDN_014,81,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 2 noted on labs, eGFR 67, routine monitoring only, no dialysis.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_000,88,M,SP_STRKETIA,I639,HCC249,0.239,"Family history of stroke, patient has no personal history of cerebrovascular events.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_001,68,M,SP_STRKETIA,I639,HCC249,0.239,"TIA symptoms resolved within minutes, full neurologic workup negative for infarct.",hard_negative,Unsupported
+HARDNEG_SP_STRKETIA_002,73,F,SP_STRKETIA,I639,HCC249,0.239,"Migraine with aura, fully resolved, no infarct seen on imaging.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_000,78,F,SP_ALZHDMTA,G309,HCC127,0.341,Family history of Alzheimer's disease; patient's own cognitive screening normal.,hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_001,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 29/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_002,78,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 28/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_003,76,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during recent hospitalization, fully resolved after treatment, baseline cognition intact.",hard_negative,Unsupported
+HARDNEG_SP_ALZHDMTA_004,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment ruled out on formal testing, MMSE 30/30, normal for age.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_000,72,F,SP_RA_OA,M069,HCC93,0.617,Family history of rheumatoid arthritis; patient's own rheumatology workup unremarkable.,hard_negative,Unsupported
+HARDNEG_SP_RA_OA_001,75,F,SP_RA_OA,M069,HCC93,0.617,"RA serologies negative, no synovitis on exam, joint complaints attributed to overuse.",hard_negative,Unsupported
+HARDNEG_SP_RA_OA_002,73,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",hard_negative,Unsupported
