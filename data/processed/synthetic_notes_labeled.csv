@@ -13978,3 +13978,411 @@ HARDNEG_SP_ALZHDMTA_004,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impai
 HARDNEG_SP_RA_OA_000,72,F,SP_RA_OA,M069,HCC93,0.617,Family history of rheumatoid arthritis; patient's own rheumatology workup unremarkable.,hard_negative,Unsupported
 HARDNEG_SP_RA_OA_001,75,F,SP_RA_OA,M069,HCC93,0.617,"RA serologies negative, no synovitis on exam, joint complaints attributed to overuse.",hard_negative,Unsupported
 HARDNEG_SP_RA_OA_002,73,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis of the right knee, mild, managed with acetaminophen as needed.",hard_negative,Unsupported
+HARDNEG2_SP_DIABETES_000,68,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes in both parents; patient's own fasting glucose normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_001,70,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.3%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_002,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.1%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_003,88,F,SP_DIABETES,E1122,HCC37,0.166,"Steroid-induced hyperglycemia during recent prednisone course, resolved after taper.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_004,63,M,SP_DIABETES,E1122,HCC37,0.166,Sibling recently diagnosed with diabetes; patient screened negative on oral glucose tolerance test.,hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_005,69,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 10, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_006,84,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 23, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_007,86,F,SP_DIABETES,E1122,HCC37,0.166,"MODY (maturity-onset diabetes of the young) diagnosed via genetic testing, managed with diet alone.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_008,83,M,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 10 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_009,77,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.0%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_010,60,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.2%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_011,67,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 5.8%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_012,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 25, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_013,64,F,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 5 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_014,74,M,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 9 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_000,81,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 6 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_001,60,M,SP_CHF,I509,HCC226,0.36,"EF 61% on most recent echo, NYHA class I, no current heart failure symptoms.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_002,71,M,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 3 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_003,85,F,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 56%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_004,80,F,SP_CHF,I509,HCC226,0.36,Father had heart failure; patient's own cardiac workup including echo and BNP unremarkable.,hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_005,90,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 7 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_006,73,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 10 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_007,82,M,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 57%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_008,83,M,SP_CHF,I509,HCC226,0.36,"History of mild valvular regurgitation, asymptomatic, no heart failure diagnosis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_009,72,F,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 2 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_010,84,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 12 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_011,70,M,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 4 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_012,83,M,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 61%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_013,71,F,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 62%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_014,73,M,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 9 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_000,87,M,SP_COPD,J449,HCC280,0.319,"Restrictive lung disease from prior radiation, distinct from obstructive COPD pattern.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_001,77,F,SP_COPD,J449,HCC280,0.319,"Asthma since childhood, well controlled, no COPD or smoking history.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_002,66,F,SP_COPD,J449,HCC280,0.319,"Bronchiectasis on imaging, not COPD; pulmonology following separately.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_003,66,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 9 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_004,67,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 11 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_005,72,M,SP_COPD,J449,HCC280,0.319,Mother had COPD; patient is a lifelong non-smoker with normal pulmonary function.,hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_006,89,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 10 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_007,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_008,68,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 15 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_009,61,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_010,78,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_011,88,F,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 19 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_012,81,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_013,61,F,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 18 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_014,76,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_000,83,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 13 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_001,69,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 5 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_002,60,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 1 only, eGFR 76, monitored annually, no intervention needed.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_003,76,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 12 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_004,69,F,SP_CHRNKIDN,N185,HCC326,0.815,"Nephrolithiasis (kidney stones) only, no chronic kidney disease present.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_005,76,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 15 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_006,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 1 only, eGFR 92, monitored annually, no intervention needed.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_007,90,F,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal ultrasound and labs normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_008,61,F,SP_CHRNKIDN,N185,HCC326,0.815,"Acute kidney injury post-surgery, fully resolved, baseline renal function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_009,64,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 14 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_010,80,F,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 8 years ago, excellent graft function, creatinine 1.2, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_011,67,F,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 13 years ago, excellent graft function, creatinine 0.9, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_012,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 5 years ago, excellent graft function, creatinine 1.0, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_013,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 3 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_014,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 9 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_000,86,M,SP_STRKETIA,I639,HCC249,0.239,"Carotid stenosis monitored, asymptomatic, no history of actual stroke or infarct.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_001,62,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 73; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_002,64,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 3 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_003,85,M,SP_STRKETIA,I639,HCC249,0.239,"Transient global amnesia episode, fully resolved, distinct from cerebrovascular event.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_004,64,M,SP_STRKETIA,I639,HCC249,0.239,"Complex migraine with neurological aura, mimicking stroke symptoms, MRI negative for infarct.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_005,82,M,SP_STRKETIA,I639,HCC249,0.239,"TIA 2 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_006,74,M,SP_STRKETIA,I639,HCC249,0.239,Syncope workup negative for stroke; cardiac etiology identified instead.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_007,70,M,SP_STRKETIA,I639,HCC249,0.239,"TIA 4 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_008,77,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 5 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_009,69,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 71; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_010,84,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 6 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_011,60,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 55; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_012,79,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 58; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_013,77,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 63; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_014,87,F,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 65; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_000,60,M,SP_ALZHDMTA,G309,HCC127,0.341,"Depression-related pseudodementia, cognition improved after treatment of mood disorder.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_001,63,F,SP_ALZHDMTA,G309,HCC127,0.341,"Prior concern for memory loss, formal neuropsych testing entirely normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_002,90,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during hospitalization, fully resolved, baseline cognition intact at discharge.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_003,60,F,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 28/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_004,64,M,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 27/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_005,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 29/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_006,87,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 29/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_007,81,M,SP_ALZHDMTA,G309,HCC127,0.341,Strong family history of Alzheimer's disease; patient's own cognitive testing unremarkable.,hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_008,73,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 30/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_009,74,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 28/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_010,81,M,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 30/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_011,66,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 27/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_000,80,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis confirmed on imaging, RF and anti-CCP negative, not rheumatoid arthritis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_001,87,F,SP_RA_OA,M069,HCC93,0.617,Joint pain workup negative for inflammatory arthritis; RF and anti-CCP both negative.,hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_002,79,M,SP_RA_OA,M069,HCC93,0.617,"Fibromyalgia diagnosis, diffuse pain without joint swelling or inflammatory markers.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_003,85,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.7, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_004,89,M,SP_RA_OA,M069,HCC93,0.617,Mother has rheumatoid arthritis; patient's own joint exam and serologies normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_005,68,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.9, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_006,79,F,SP_RA_OA,M069,HCC93,0.617,"Gout flare in big toe, uric acid elevated, distinct from rheumatoid arthritis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_007,73,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.1, off DMARDs for 3 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_008,88,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.0, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_009,67,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.3, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_010,76,F,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.2, off DMARDs for 1 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_011,72,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.8, off DMARDs for 4 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_012,71,F,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.0, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_013,67,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.5, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_014,81,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.2, off DMARDs for 3 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_000,68,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes in both parents; patient's own fasting glucose normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_001,70,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.3%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_002,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.1%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_003,88,F,SP_DIABETES,E1122,HCC37,0.166,"Steroid-induced hyperglycemia during recent prednisone course, resolved after taper.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_004,63,M,SP_DIABETES,E1122,HCC37,0.166,Sibling recently diagnosed with diabetes; patient screened negative on oral glucose tolerance test.,hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_005,69,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 10, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_006,84,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 23, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_007,86,F,SP_DIABETES,E1122,HCC37,0.166,"MODY (maturity-onset diabetes of the young) diagnosed via genetic testing, managed with diet alone.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_008,83,M,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 10 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_009,77,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.0%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_010,60,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.2%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_011,67,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 5.8%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_012,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 25, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_013,64,F,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 5 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_014,74,M,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 9 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_000,81,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 6 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_001,60,M,SP_CHF,I509,HCC226,0.36,"EF 61% on most recent echo, NYHA class I, no current heart failure symptoms.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_002,71,M,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 3 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_003,85,F,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 56%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_004,80,F,SP_CHF,I509,HCC226,0.36,Father had heart failure; patient's own cardiac workup including echo and BNP unremarkable.,hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_005,90,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 7 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_006,73,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 10 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_007,82,M,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 57%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_008,83,M,SP_CHF,I509,HCC226,0.36,"History of mild valvular regurgitation, asymptomatic, no heart failure diagnosis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_009,72,F,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 2 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_010,84,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 12 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_011,70,M,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 4 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_012,83,M,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 61%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_013,71,F,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 62%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_014,73,M,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 9 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_000,87,M,SP_COPD,J449,HCC280,0.319,"Restrictive lung disease from prior radiation, distinct from obstructive COPD pattern.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_001,77,F,SP_COPD,J449,HCC280,0.319,"Asthma since childhood, well controlled, no COPD or smoking history.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_002,66,F,SP_COPD,J449,HCC280,0.319,"Bronchiectasis on imaging, not COPD; pulmonology following separately.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_003,66,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 9 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_004,67,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 11 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_005,72,M,SP_COPD,J449,HCC280,0.319,Mother had COPD; patient is a lifelong non-smoker with normal pulmonary function.,hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_006,89,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 10 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_007,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_008,68,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 15 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_009,61,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_010,78,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_011,88,F,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 19 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_012,81,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_013,61,F,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 18 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_014,76,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_000,83,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 13 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_001,69,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 5 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_002,60,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 1 only, eGFR 76, monitored annually, no intervention needed.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_003,76,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 12 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_004,69,F,SP_CHRNKIDN,N185,HCC326,0.815,"Nephrolithiasis (kidney stones) only, no chronic kidney disease present.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_005,76,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 15 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_006,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 1 only, eGFR 92, monitored annually, no intervention needed.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_007,90,F,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal ultrasound and labs normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_008,61,F,SP_CHRNKIDN,N185,HCC326,0.815,"Acute kidney injury post-surgery, fully resolved, baseline renal function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_009,64,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 14 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_010,80,F,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 8 years ago, excellent graft function, creatinine 1.2, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_011,67,F,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 13 years ago, excellent graft function, creatinine 0.9, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_012,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 5 years ago, excellent graft function, creatinine 1.0, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_013,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 3 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_014,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 9 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_000,86,M,SP_STRKETIA,I639,HCC249,0.239,"Carotid stenosis monitored, asymptomatic, no history of actual stroke or infarct.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_001,62,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 73; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_002,64,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 3 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_003,85,M,SP_STRKETIA,I639,HCC249,0.239,"Transient global amnesia episode, fully resolved, distinct from cerebrovascular event.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_004,64,M,SP_STRKETIA,I639,HCC249,0.239,"Complex migraine with neurological aura, mimicking stroke symptoms, MRI negative for infarct.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_005,82,M,SP_STRKETIA,I639,HCC249,0.239,"TIA 2 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_006,74,M,SP_STRKETIA,I639,HCC249,0.239,Syncope workup negative for stroke; cardiac etiology identified instead.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_007,70,M,SP_STRKETIA,I639,HCC249,0.239,"TIA 4 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_008,77,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 5 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_009,69,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 71; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_010,84,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 6 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_011,60,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 55; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_012,79,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 58; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_013,77,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 63; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_014,87,F,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 65; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_000,60,M,SP_ALZHDMTA,G309,HCC127,0.341,"Depression-related pseudodementia, cognition improved after treatment of mood disorder.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_001,63,F,SP_ALZHDMTA,G309,HCC127,0.341,"Prior concern for memory loss, formal neuropsych testing entirely normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_002,90,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during hospitalization, fully resolved, baseline cognition intact at discharge.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_003,60,F,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 28/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_004,64,M,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 27/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_005,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 29/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_006,87,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 29/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_007,81,M,SP_ALZHDMTA,G309,HCC127,0.341,Strong family history of Alzheimer's disease; patient's own cognitive testing unremarkable.,hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_008,73,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 30/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_009,74,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 28/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_010,81,M,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 30/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_011,66,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 27/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_000,80,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis confirmed on imaging, RF and anti-CCP negative, not rheumatoid arthritis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_001,87,F,SP_RA_OA,M069,HCC93,0.617,Joint pain workup negative for inflammatory arthritis; RF and anti-CCP both negative.,hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_002,79,M,SP_RA_OA,M069,HCC93,0.617,"Fibromyalgia diagnosis, diffuse pain without joint swelling or inflammatory markers.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_003,85,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.7, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_004,89,M,SP_RA_OA,M069,HCC93,0.617,Mother has rheumatoid arthritis; patient's own joint exam and serologies normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_005,68,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.9, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_006,79,F,SP_RA_OA,M069,HCC93,0.617,"Gout flare in big toe, uric acid elevated, distinct from rheumatoid arthritis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_007,73,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.1, off DMARDs for 3 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_008,88,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.0, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_009,67,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.3, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_010,76,F,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.2, off DMARDs for 1 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_011,72,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.8, off DMARDs for 4 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_012,71,F,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.0, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_013,67,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.5, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_014,81,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.2, off DMARDs for 3 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_000,68,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes in both parents; patient's own fasting glucose normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_001,70,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.3%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_002,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.1%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_003,88,F,SP_DIABETES,E1122,HCC37,0.166,"Steroid-induced hyperglycemia during recent prednisone course, resolved after taper.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_004,63,M,SP_DIABETES,E1122,HCC37,0.166,Sibling recently diagnosed with diabetes; patient screened negative on oral glucose tolerance test.,hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_005,69,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 10, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_006,84,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 23, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_007,86,F,SP_DIABETES,E1122,HCC37,0.166,"MODY (maturity-onset diabetes of the young) diagnosed via genetic testing, managed with diet alone.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_008,83,M,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 10 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_009,77,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.0%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_010,60,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.2%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_011,67,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 5.8%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_012,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 25, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_013,64,F,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 5 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_014,74,M,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 9 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_000,81,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 6 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_001,60,M,SP_CHF,I509,HCC226,0.36,"EF 61% on most recent echo, NYHA class I, no current heart failure symptoms.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_002,71,M,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 3 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_003,85,F,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 56%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_004,80,F,SP_CHF,I509,HCC226,0.36,Father had heart failure; patient's own cardiac workup including echo and BNP unremarkable.,hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_005,90,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 7 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_006,73,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 10 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_007,82,M,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 57%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_008,83,M,SP_CHF,I509,HCC226,0.36,"History of mild valvular regurgitation, asymptomatic, no heart failure diagnosis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_009,72,F,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 2 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_010,84,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 12 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_011,70,M,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 4 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_012,83,M,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 61%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_013,71,F,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 62%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_014,73,M,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 9 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_000,87,M,SP_COPD,J449,HCC280,0.319,"Restrictive lung disease from prior radiation, distinct from obstructive COPD pattern.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_001,77,F,SP_COPD,J449,HCC280,0.319,"Asthma since childhood, well controlled, no COPD or smoking history.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_002,66,F,SP_COPD,J449,HCC280,0.319,"Bronchiectasis on imaging, not COPD; pulmonology following separately.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_003,66,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 9 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_004,67,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 11 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_005,72,M,SP_COPD,J449,HCC280,0.319,Mother had COPD; patient is a lifelong non-smoker with normal pulmonary function.,hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_006,89,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 10 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_007,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_008,68,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 15 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_009,61,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_010,78,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_011,88,F,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 19 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_012,81,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_013,61,F,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 18 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_014,76,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_000,83,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 13 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_001,69,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 5 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_002,60,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 1 only, eGFR 76, monitored annually, no intervention needed.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_003,76,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 12 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_004,69,F,SP_CHRNKIDN,N185,HCC326,0.815,"Nephrolithiasis (kidney stones) only, no chronic kidney disease present.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_005,76,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 15 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_006,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 1 only, eGFR 92, monitored annually, no intervention needed.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_007,90,F,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal ultrasound and labs normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_008,61,F,SP_CHRNKIDN,N185,HCC326,0.815,"Acute kidney injury post-surgery, fully resolved, baseline renal function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_009,64,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 14 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_010,80,F,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 8 years ago, excellent graft function, creatinine 1.2, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_011,67,F,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 13 years ago, excellent graft function, creatinine 0.9, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_012,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 5 years ago, excellent graft function, creatinine 1.0, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_013,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 3 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_014,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 9 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_000,86,M,SP_STRKETIA,I639,HCC249,0.239,"Carotid stenosis monitored, asymptomatic, no history of actual stroke or infarct.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_001,62,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 73; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_002,64,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 3 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_003,85,M,SP_STRKETIA,I639,HCC249,0.239,"Transient global amnesia episode, fully resolved, distinct from cerebrovascular event.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_004,64,M,SP_STRKETIA,I639,HCC249,0.239,"Complex migraine with neurological aura, mimicking stroke symptoms, MRI negative for infarct.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_005,82,M,SP_STRKETIA,I639,HCC249,0.239,"TIA 2 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_006,74,M,SP_STRKETIA,I639,HCC249,0.239,Syncope workup negative for stroke; cardiac etiology identified instead.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_007,70,M,SP_STRKETIA,I639,HCC249,0.239,"TIA 4 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_008,77,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 5 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_009,69,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 71; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_010,84,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 6 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_011,60,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 55; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_012,79,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 58; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_013,77,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 63; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_014,87,F,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 65; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_000,60,M,SP_ALZHDMTA,G309,HCC127,0.341,"Depression-related pseudodementia, cognition improved after treatment of mood disorder.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_001,63,F,SP_ALZHDMTA,G309,HCC127,0.341,"Prior concern for memory loss, formal neuropsych testing entirely normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_002,90,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during hospitalization, fully resolved, baseline cognition intact at discharge.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_003,60,F,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 28/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_004,64,M,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 27/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_005,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 29/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_006,87,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 29/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_007,81,M,SP_ALZHDMTA,G309,HCC127,0.341,Strong family history of Alzheimer's disease; patient's own cognitive testing unremarkable.,hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_008,73,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 30/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_009,74,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 28/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_010,81,M,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 30/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_011,66,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 27/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_000,80,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis confirmed on imaging, RF and anti-CCP negative, not rheumatoid arthritis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_001,87,F,SP_RA_OA,M069,HCC93,0.617,Joint pain workup negative for inflammatory arthritis; RF and anti-CCP both negative.,hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_002,79,M,SP_RA_OA,M069,HCC93,0.617,"Fibromyalgia diagnosis, diffuse pain without joint swelling or inflammatory markers.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_003,85,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.7, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_004,89,M,SP_RA_OA,M069,HCC93,0.617,Mother has rheumatoid arthritis; patient's own joint exam and serologies normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_005,68,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.9, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_006,79,F,SP_RA_OA,M069,HCC93,0.617,"Gout flare in big toe, uric acid elevated, distinct from rheumatoid arthritis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_007,73,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.1, off DMARDs for 3 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_008,88,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.0, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_009,67,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.3, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_010,76,F,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.2, off DMARDs for 1 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_011,72,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.8, off DMARDs for 4 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_012,71,F,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.0, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_013,67,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.5, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_014,81,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.2, off DMARDs for 3 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_000,68,M,SP_DIABETES,E1122,HCC37,0.166,Strong family history of type 2 diabetes in both parents; patient's own fasting glucose normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_001,70,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.3%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_002,82,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.1%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_003,88,F,SP_DIABETES,E1122,HCC37,0.166,"Steroid-induced hyperglycemia during recent prednisone course, resolved after taper.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_004,63,M,SP_DIABETES,E1122,HCC37,0.166,Sibling recently diagnosed with diabetes; patient screened negative on oral glucose tolerance test.,hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_005,69,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 10, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_006,84,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 23, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_007,86,F,SP_DIABETES,E1122,HCC37,0.166,"MODY (maturity-onset diabetes of the young) diagnosed via genetic testing, managed with diet alone.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_008,83,M,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 10 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_009,77,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.0%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_010,60,M,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 6.2%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_011,67,F,SP_DIABETES,E1122,HCC37,0.166,"Diabetes in remission per recent labs, A1c 5.8%, no medications currently required.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_012,80,F,SP_DIABETES,E1122,HCC37,0.166,"Type 1 diabetes mellitus, diagnosed at age 25, no diabetic complications screened to date.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_013,64,F,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 5 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_DIABETES_014,74,M,SP_DIABETES,E1122,HCC37,0.166,"History of gestational diabetes 9 years ago, normal glucose tolerance since delivery.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_000,81,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 6 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_001,60,M,SP_CHF,I509,HCC226,0.36,"EF 61% on most recent echo, NYHA class I, no current heart failure symptoms.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_002,71,M,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 3 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_003,85,F,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 56%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_004,80,F,SP_CHF,I509,HCC226,0.36,Father had heart failure; patient's own cardiac workup including echo and BNP unremarkable.,hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_005,90,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 7 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_006,73,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 10 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_007,82,M,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 57%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_008,83,M,SP_CHF,I509,HCC226,0.36,"History of mild valvular regurgitation, asymptomatic, no heart failure diagnosis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_009,72,F,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 2 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_010,84,F,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 12 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_011,70,M,SP_CHF,I509,HCC226,0.36,"Prior heart failure diagnosis from 4 years ago, now resolved, off all cardiac medications.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_012,83,M,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 61%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_013,71,F,SP_CHF,I509,HCC226,0.36,"Hypertensive heart disease without heart failure; LVH on echo, EF preserved at 62%.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHF_014,73,M,SP_CHF,I509,HCC226,0.36,"Cardiomyopathy of pregnancy, fully resolved postpartum 9 years ago.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_000,87,M,SP_COPD,J449,HCC280,0.319,"Restrictive lung disease from prior radiation, distinct from obstructive COPD pattern.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_001,77,F,SP_COPD,J449,HCC280,0.319,"Asthma since childhood, well controlled, no COPD or smoking history.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_002,66,F,SP_COPD,J449,HCC280,0.319,"Bronchiectasis on imaging, not COPD; pulmonology following separately.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_003,66,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 9 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_004,67,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 11 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_005,72,M,SP_COPD,J449,HCC280,0.319,Mother had COPD; patient is a lifelong non-smoker with normal pulmonary function.,hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_006,89,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 10 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_007,85,M,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 91% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_008,68,M,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 15 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_009,61,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 95% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_010,78,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 94% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_011,88,F,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 19 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_012,81,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 88% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_013,61,F,SP_COPD,J449,HCC280,0.319,"Former smoker, quit 18 years ago, lungs clear, no COPD diagnosis established.",hard_negative_v2,Unsupported
+HARDNEG2_SP_COPD_014,76,F,SP_COPD,J449,HCC280,0.319,"Spirometry within normal limits, FEV1 92% predicted, no obstructive disease.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_000,83,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 13 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_001,69,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 5 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_002,60,F,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 1 only, eGFR 76, monitored annually, no intervention needed.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_003,76,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 12 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_004,69,F,SP_CHRNKIDN,N185,HCC326,0.815,"Nephrolithiasis (kidney stones) only, no chronic kidney disease present.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_005,76,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 15 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_006,68,M,SP_CHRNKIDN,N185,HCC326,0.815,"CKD stage 1 only, eGFR 92, monitored annually, no intervention needed.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_007,90,F,SP_CHRNKIDN,N185,HCC326,0.815,Family history of polycystic kidney disease; patient's own renal ultrasound and labs normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_008,61,F,SP_CHRNKIDN,N185,HCC326,0.815,"Acute kidney injury post-surgery, fully resolved, baseline renal function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_009,64,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 14 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_010,80,F,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 8 years ago, excellent graft function, creatinine 1.2, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_011,67,F,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 13 years ago, excellent graft function, creatinine 0.9, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_012,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"Kidney transplant 5 years ago, excellent graft function, creatinine 1.0, no rejection.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_013,77,M,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 3 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_CHRNKIDN_014,66,F,SP_CHRNKIDN,N185,HCC326,0.815,"Single kidney post-nephrectomy 9 years ago, remaining kidney function normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_000,86,M,SP_STRKETIA,I639,HCC249,0.239,"Carotid stenosis monitored, asymptomatic, no history of actual stroke or infarct.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_001,62,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 73; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_002,64,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 3 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_003,85,M,SP_STRKETIA,I639,HCC249,0.239,"Transient global amnesia episode, fully resolved, distinct from cerebrovascular event.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_004,64,M,SP_STRKETIA,I639,HCC249,0.239,"Complex migraine with neurological aura, mimicking stroke symptoms, MRI negative for infarct.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_005,82,M,SP_STRKETIA,I639,HCC249,0.239,"TIA 2 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_006,74,M,SP_STRKETIA,I639,HCC249,0.239,Syncope workup negative for stroke; cardiac etiology identified instead.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_007,70,M,SP_STRKETIA,I639,HCC249,0.239,"TIA 4 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_008,77,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 5 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_009,69,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 71; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_010,84,F,SP_STRKETIA,I639,HCC249,0.239,"TIA 6 years ago, full neurologic recovery, no residual deficits, MRI clear.",hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_011,60,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 55; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_012,79,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 58; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_013,77,M,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 63; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_STRKETIA_014,87,F,SP_STRKETIA,I639,HCC249,0.239,Mother had a stroke at age 65; patient's own neurologic exam and imaging normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_000,60,M,SP_ALZHDMTA,G309,HCC127,0.341,"Depression-related pseudodementia, cognition improved after treatment of mood disorder.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_001,63,F,SP_ALZHDMTA,G309,HCC127,0.341,"Prior concern for memory loss, formal neuropsych testing entirely normal.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_002,90,M,SP_ALZHDMTA,G309,HCC127,0.341,"Delirium during hospitalization, fully resolved, baseline cognition intact at discharge.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_003,60,F,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 28/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_004,64,M,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 27/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_005,65,F,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 29/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_006,87,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 29/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_007,81,M,SP_ALZHDMTA,G309,HCC127,0.341,Strong family history of Alzheimer's disease; patient's own cognitive testing unremarkable.,hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_008,73,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 30/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_009,74,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 28/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_010,81,M,SP_ALZHDMTA,G309,HCC127,0.341,"Cognitive screening MMSE 30/30, within normal range for age and education.",hard_negative_v2,Unsupported
+HARDNEG2_SP_ALZHDMTA_011,66,M,SP_ALZHDMTA,G309,HCC127,0.341,"Mild cognitive impairment only, does not meet criteria for dementia, MMSE 27/30.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_000,80,F,SP_RA_OA,M069,HCC93,0.617,"Osteoarthritis confirmed on imaging, RF and anti-CCP negative, not rheumatoid arthritis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_001,87,F,SP_RA_OA,M069,HCC93,0.617,Joint pain workup negative for inflammatory arthritis; RF and anti-CCP both negative.,hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_002,79,M,SP_RA_OA,M069,HCC93,0.617,"Fibromyalgia diagnosis, diffuse pain without joint swelling or inflammatory markers.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_003,85,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.7, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_004,89,M,SP_RA_OA,M069,HCC93,0.617,Mother has rheumatoid arthritis; patient's own joint exam and serologies normal.,hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_005,68,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.9, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_006,79,F,SP_RA_OA,M069,HCC93,0.617,"Gout flare in big toe, uric acid elevated, distinct from rheumatoid arthritis.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_007,73,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.1, off DMARDs for 3 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_008,88,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.0, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_009,67,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.3, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_010,76,F,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.2, off DMARDs for 1 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_011,72,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.8, off DMARDs for 4 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_012,71,F,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.0, off DMARDs for 6 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_013,67,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 1.5, off DMARDs for 2 years.",hard_negative_v2,Unsupported
+HARDNEG2_SP_RA_OA_014,81,M,SP_RA_OA,M069,HCC93,0.617,"RA in clinical remission, DAS28 2.2, off DMARDs for 3 years.",hard_negative_v2,Unsupported

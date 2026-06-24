@@ -34,4 +34,13 @@ print()
 comparison = golden.loc[trap_indices, ["note_text", "label"]].copy()
 comparison["claude_answer"] = claude_results.set_index("index").loc[trap_indices, "model_answer"].values
 comparison["slm_answer"] = slm_results.set_index("index").loc[trap_indices, "model_answer"].values
+
+slm_v2_results = pd.read_csv("data/processed/slm_v2_benchmark_results.csv")
+slm_v2_trap = slm_v2_results[slm_v2_results["index"].isin(trap_indices)]
+print(f"Fine-tuned SLM v2 (with hard negatives) trap-case accuracy: {slm_v2_trap['match'].mean():.1%} ({slm_v2_trap['match'].sum()}/{len(slm_v2_trap)})")
+print()
+
+comparison["slm_v2_answer"] = slm_v2_results.set_index("index").loc[trap_indices, "model_answer"].values
+
+
 print(comparison.to_string(index=False))

@@ -1,0 +1,147 @@
+index,condition_flag,true_label,model_answer,match,latency_sec
+0,SP_DIABETES,Fully Supported,Fully Supported,True,1.7612171173095703
+1,SP_DIABETES,Fully Supported,Fully Supported,True,2.0362751483917236
+2,SP_DIABETES,Insufficient,Insufficient,True,1.8110079765319824
+3,SP_DIABETES,Insufficient,Insufficient,True,1.7739789485931396
+4,SP_DIABETES,Unsupported,Unsupported,True,1.9258661270141602
+5,SP_DIABETES,Unsupported,Fully Supported,False,1.773123025894165
+6,SP_CHF,Fully Supported,Fully Supported,True,1.8761489391326904
+7,SP_CHF,Insufficient,Fully Supported,False,1.773576259613037
+8,SP_CHF,Insufficient,Insufficient,True,1.6831817626953125
+9,SP_CHF,Insufficient,Insufficient,True,1.6913771629333496
+10,SP_CHF,Unsupported,Unsupported,True,1.6610631942749023
+11,SP_CHF,Insufficient,Insufficient,True,1.7353777885437012
+12,SP_COPD,Fully Supported,Fully Supported,True,1.6455388069152832
+13,SP_COPD,Fully Supported,Fully Supported,True,2.0518298149108887
+14,SP_COPD,Insufficient,Insufficient,True,2.4166038036346436
+15,SP_COPD,Insufficient,Insufficient,True,2.096532106399536
+16,SP_COPD,Unsupported,Unsupported,True,2.0651631355285645
+17,SP_COPD,Insufficient,Insufficient,True,2.4096179008483887
+18,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.8255209922790527
+19,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.8996210098266602
+20,SP_CHRNKIDN,Insufficient,Insufficient,True,1.7433438301086426
+21,SP_CHRNKIDN,Insufficient,Insufficient,True,1.7883141040802002
+22,SP_CHRNKIDN,Unsupported,Insufficient,False,1.6894090175628662
+23,SP_CHRNKIDN,Unsupported,Fully Supported,False,2.1666760444641113
+24,SP_STRKETIA,Fully Supported,Fully Supported,True,1.7288551330566406
+25,SP_STRKETIA,Fully Supported,Fully Supported,True,1.8742179870605469
+26,SP_STRKETIA,Insufficient,Insufficient,True,1.7446691989898682
+27,SP_STRKETIA,Insufficient,Insufficient,True,1.719851016998291
+28,SP_STRKETIA,Unsupported,Unsupported,True,2.1914119720458984
+29,SP_STRKETIA,Unsupported,Insufficient,False,1.9416239261627197
+30,SP_ALZHDMTA,Fully Supported,Insufficient,False,1.8524150848388672
+31,SP_ALZHDMTA,Fully Supported,Fully Supported,True,1.86421799659729
+32,SP_ALZHDMTA,Insufficient,Insufficient,True,1.838965892791748
+33,SP_ALZHDMTA,Insufficient,Unsupported,False,1.9768009185791016
+34,SP_ALZHDMTA,Unsupported,Unsupported,True,1.8961207866668701
+35,SP_RA_OA,Fully Supported,Fully Supported,True,1.9595048427581787
+36,SP_RA_OA,Fully Supported,Fully Supported,True,2.0324127674102783
+37,SP_RA_OA,Insufficient,Insufficient,True,1.9059829711914062
+38,SP_RA_OA,Insufficient,Insufficient,True,1.7638311386108398
+39,SP_RA_OA,Unsupported,Unsupported,True,1.6694209575653076
+40,SP_RA_OA,Unsupported,Insufficient,False,1.7523078918457031
+41,SP_DIABETES,Fully Supported,Fully Supported,True,1.9986741542816162
+42,SP_DIABETES,Fully Supported,Fully Supported,True,1.9813330173492432
+43,SP_DIABETES,Fully Supported,Fully Supported,True,1.7640202045440674
+44,SP_DIABETES,Fully Supported,Fully Supported,True,1.616447925567627
+45,SP_DIABETES,Fully Supported,Fully Supported,True,1.9347240924835205
+46,SP_DIABETES,Insufficient,Insufficient,True,2.124701976776123
+47,SP_DIABETES,Insufficient,Insufficient,True,1.7866621017456055
+48,SP_DIABETES,Insufficient,Insufficient,True,1.745487928390503
+49,SP_DIABETES,Insufficient,Insufficient,True,1.7669830322265625
+50,SP_DIABETES,Insufficient,Insufficient,True,1.7982418537139893
+51,SP_DIABETES,Unsupported,Unsupported,True,1.740065097808838
+52,SP_DIABETES,Unsupported,Unsupported,True,1.9571070671081543
+53,SP_DIABETES,Unsupported,Unsupported,True,1.8681910037994385
+54,SP_DIABETES,Unsupported,Unsupported,True,1.6872990131378174
+55,SP_DIABETES,Unsupported,Unsupported,True,1.7048590183258057
+56,SP_CHF,Fully Supported,Fully Supported,True,1.691129207611084
+57,SP_CHF,Insufficient,Fully Supported,False,1.7386760711669922
+58,SP_CHF,Fully Supported,Fully Supported,True,2.0215930938720703
+59,SP_CHF,Insufficient,Fully Supported,False,1.7532479763031006
+60,SP_CHF,Fully Supported,Fully Supported,True,1.747962236404419
+61,SP_CHF,Insufficient,Insufficient,True,2.0132651329040527
+62,SP_CHF,Insufficient,Insufficient,True,1.9738240242004395
+63,SP_CHF,Insufficient,Insufficient,True,2.211442232131958
+64,SP_CHF,Insufficient,Insufficient,True,1.9964439868927002
+65,SP_CHF,Insufficient,Insufficient,True,2.1169159412384033
+66,SP_CHF,Unsupported,Unsupported,True,1.944504976272583
+67,SP_CHF,Unsupported,Insufficient,False,1.9000203609466553
+68,SP_CHF,Unsupported,Insufficient,False,2.0664381980895996
+69,SP_CHF,Unsupported,Unsupported,True,1.9404659271240234
+70,SP_CHF,Unsupported,Unsupported,True,1.7462379932403564
+71,SP_COPD,Fully Supported,Fully Supported,True,1.7804439067840576
+72,SP_COPD,Fully Supported,Fully Supported,True,1.8038148880004883
+73,SP_COPD,Fully Supported,Fully Supported,True,1.9499619007110596
+74,SP_COPD,Fully Supported,Fully Supported,True,2.0861082077026367
+75,SP_COPD,Fully Supported,Fully Supported,True,1.7436389923095703
+76,SP_COPD,Insufficient,Insufficient,True,1.7000150680541992
+77,SP_COPD,Insufficient,Insufficient,True,1.7157230377197266
+78,SP_COPD,Insufficient,Insufficient,True,1.75075101852417
+79,SP_COPD,Insufficient,Insufficient,True,1.7026939392089844
+80,SP_COPD,Insufficient,Insufficient,True,1.0119240283966064
+81,SP_COPD,Unsupported,Unsupported,True,1.0390148162841797
+82,SP_COPD,Unsupported,Unsupported,True,1.036879062652588
+83,SP_COPD,Unsupported,Unsupported,True,1.0424001216888428
+84,SP_COPD,Unsupported,Unsupported,True,1.0460963249206543
+85,SP_COPD,Unsupported,Insufficient,False,1.0462031364440918
+86,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.048464298248291
+87,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.0490341186523438
+88,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.048840045928955
+89,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.0522141456604004
+90,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.0514450073242188
+91,SP_CHRNKIDN,Insufficient,Insufficient,True,1.0505788326263428
+92,SP_CHRNKIDN,Insufficient,Insufficient,True,1.0476510524749756
+93,SP_CHRNKIDN,Insufficient,Insufficient,True,1.0541660785675049
+94,SP_CHRNKIDN,Insufficient,Insufficient,True,1.0519280433654785
+95,SP_CHRNKIDN,Insufficient,Insufficient,True,1.055626392364502
+96,SP_CHRNKIDN,Unsupported,Insufficient,False,1.091398000717163
+97,SP_CHRNKIDN,Unsupported,Fully Supported,False,1.0826120376586914
+98,SP_CHRNKIDN,Unsupported,Fully Supported,False,1.1480751037597656
+99,SP_CHRNKIDN,Unsupported,Unsupported,True,1.1694729328155518
+100,SP_CHRNKIDN,Unsupported,Fully Supported,False,1.1831598281860352
+101,SP_STRKETIA,Fully Supported,Fully Supported,True,1.1689398288726807
+102,SP_STRKETIA,Fully Supported,Fully Supported,True,1.2495930194854736
+103,SP_STRKETIA,Fully Supported,Fully Supported,True,1.1849138736724854
+104,SP_STRKETIA,Fully Supported,Fully Supported,True,1.184770107269287
+105,SP_STRKETIA,Fully Supported,Fully Supported,True,1.2025408744812012
+106,SP_STRKETIA,Insufficient,Insufficient,True,1.2131290435791016
+107,SP_STRKETIA,Insufficient,Insufficient,True,1.160329818725586
+108,SP_STRKETIA,Insufficient,Insufficient,True,1.2159531116485596
+109,SP_STRKETIA,Insufficient,Insufficient,True,1.1516292095184326
+110,SP_STRKETIA,Insufficient,Insufficient,True,1.088879108428955
+111,SP_STRKETIA,Unsupported,Unsupported,True,1.0734899044036865
+112,SP_STRKETIA,Unsupported,Unsupported,True,1.1441419124603271
+113,SP_STRKETIA,Unsupported,Unsupported,True,1.1280012130737305
+114,SP_STRKETIA,Unsupported,Unsupported,True,1.108902931213379
+115,SP_STRKETIA,Unsupported,Unsupported,True,1.1102449893951416
+116,SP_ALZHDMTA,Fully Supported,Unsupported,False,1.114542007446289
+117,SP_ALZHDMTA,Fully Supported,Unsupported,False,1.1318888664245605
+118,SP_ALZHDMTA,Fully Supported,Fully Supported,True,1.0734219551086426
+119,SP_ALZHDMTA,Fully Supported,Unsupported,False,1.061372995376587
+120,SP_ALZHDMTA,Fully Supported,Insufficient,False,1.0629868507385254
+121,SP_ALZHDMTA,Insufficient,Insufficient,True,1.0543780326843262
+122,SP_ALZHDMTA,Insufficient,Insufficient,True,1.060086965560913
+123,SP_ALZHDMTA,Insufficient,Insufficient,True,1.0575358867645264
+124,SP_ALZHDMTA,Insufficient,Insufficient,True,1.060271978378296
+125,SP_ALZHDMTA,Insufficient,Insufficient,True,1.062777042388916
+126,SP_ALZHDMTA,Unsupported,Insufficient,False,1.0612261295318604
+127,SP_ALZHDMTA,Unsupported,Unsupported,True,1.060373067855835
+128,SP_ALZHDMTA,Unsupported,Insufficient,False,1.0540001392364502
+129,SP_ALZHDMTA,Unsupported,Unsupported,True,1.0569860935211182
+130,SP_ALZHDMTA,Unsupported,Insufficient,False,1.0625379085540771
+131,SP_RA_OA,Fully Supported,Fully Supported,True,1.0603630542755127
+132,SP_RA_OA,Fully Supported,Fully Supported,True,1.062577247619629
+133,SP_RA_OA,Fully Supported,Fully Supported,True,1.064065933227539
+134,SP_RA_OA,Fully Supported,Fully Supported,True,1.0712592601776123
+135,SP_RA_OA,Fully Supported,Fully Supported,True,1.0691821575164795
+136,SP_RA_OA,Insufficient,Insufficient,True,1.072605848312378
+137,SP_RA_OA,Insufficient,Insufficient,True,1.0679728984832764
+138,SP_RA_OA,Insufficient,Insufficient,True,1.0839171409606934
+139,SP_RA_OA,Insufficient,Insufficient,True,1.0777390003204346
+140,SP_RA_OA,Insufficient,Insufficient,True,1.074573040008545
+141,SP_RA_OA,Unsupported,Insufficient,False,1.0761311054229736
+142,SP_RA_OA,Unsupported,Insufficient,False,1.079132318496704
+143,SP_RA_OA,Unsupported,Insufficient,False,1.0769212245941162
+144,SP_RA_OA,Unsupported,Insufficient,False,1.121985912322998
+145,SP_RA_OA,Unsupported,Insufficient,False,1.11427903175354
