@@ -1,0 +1,43 @@
+index,condition_flag,true_label,model_answer,match,latency_sec
+0,SP_DIABETES,Fully Supported,Fully Supported,True,1.0700039863586426
+1,SP_DIABETES,Fully Supported,Fully Supported,True,1.0334398746490479
+2,SP_DIABETES,Insufficient,Insufficient,True,1.0479421615600586
+3,SP_DIABETES,Insufficient,Insufficient,True,1.0315048694610596
+4,SP_DIABETES,Unsupported,Unsupported,True,1.0317282676696777
+5,SP_DIABETES,Unsupported,Unsupported,True,1.039297103881836
+6,SP_CHF,Fully Supported,Fully Supported,True,1.0411760807037354
+7,SP_CHF,Insufficient,Insufficient,True,1.028677225112915
+8,SP_CHF,Insufficient,Insufficient,True,1.0395619869232178
+9,SP_CHF,Insufficient,Insufficient,True,1.0431838035583496
+10,SP_CHF,Unsupported,Unsupported,True,1.042419195175171
+11,SP_CHF,Unsupported,Unsupported,True,1.0470128059387207
+12,SP_COPD,Fully Supported,Fully Supported,True,1.0423359870910645
+13,SP_COPD,Fully Supported,Fully Supported,True,1.0562841892242432
+14,SP_COPD,Insufficient,Insufficient,True,1.0470547676086426
+15,SP_COPD,Insufficient,Insufficient,True,1.0497312545776367
+16,SP_COPD,Unsupported,Unsupported,True,1.0480999946594238
+17,SP_COPD,Unsupported,Unsupported,True,1.0510599613189697
+18,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.0546388626098633
+19,SP_CHRNKIDN,Fully Supported,Fully Supported,True,1.0584900379180908
+20,SP_CHRNKIDN,Insufficient,Insufficient,True,1.0495679378509521
+21,SP_CHRNKIDN,Insufficient,Fully Supported,False,1.1271166801452637
+22,SP_CHRNKIDN,Unsupported,Insufficient,False,1.052286148071289
+23,SP_CHRNKIDN,Unsupported,Unsupported,True,1.0535309314727783
+24,SP_STRKETIA,Fully Supported,Fully Supported,True,1.0585911273956299
+25,SP_STRKETIA,Fully Supported,Fully Supported,True,1.055433988571167
+26,SP_STRKETIA,Insufficient,Insufficient,True,1.0403833389282227
+27,SP_STRKETIA,Insufficient,Insufficient,True,1.052048921585083
+28,SP_STRKETIA,Unsupported,Unsupported,True,1.052189826965332
+29,SP_STRKETIA,Unsupported,Unsupported,True,1.0580241680145264
+30,SP_ALZHDMTA,Fully Supported,Fully Supported,True,1.1327199935913086
+31,SP_ALZHDMTA,Fully Supported,Insufficient,False,1.0560541152954102
+32,SP_ALZHDMTA,Insufficient,Insufficient,True,1.0760481357574463
+33,SP_ALZHDMTA,Insufficient,Insufficient,True,1.1180119514465332
+34,SP_ALZHDMTA,Unsupported,Unsupported,True,1.1155071258544922
+35,SP_ALZHDMTA,Unsupported,Unsupported,True,1.092259168624878
+36,SP_RA_OA,Fully Supported,Fully Supported,True,1.1819040775299072
+37,SP_RA_OA,Fully Supported,Fully Supported,True,1.159193754196167
+38,SP_RA_OA,Insufficient,Insufficient,True,1.1227922439575195
+39,SP_RA_OA,Insufficient,Insufficient,True,1.0548179149627686
+40,SP_RA_OA,Unsupported,Unsupported,True,1.0669710636138916
+41,SP_RA_OA,Unsupported,Insufficient,False,1.0575189590454102

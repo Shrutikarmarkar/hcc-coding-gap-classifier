@@ -41,3 +41,123 @@ SP_RA_OA,"Some joint discomfort, hands mostly, no clear diagnosis yet.",Insuffic
 SP_RA_OA,Possible rheumatoid arthritis suspected given hand stiffness; rheumatology referral and labs pending.,Insufficient,M069,HCC93,0.617
 SP_RA_OA,"Here for blood pressure check, joints not examined today.",Unsupported,M069,HCC93,0.617
 SP_RA_OA,Inflammatory arthritis was suspected but serologies ruled out RA; diagnosed as osteoarthritis instead.,Unsupported,M069,HCC93,0.617
+SP_DIABETES,"Diabetic nephropathy confirmed via renal biopsy, eGFR 42, started on finerenone for renal protection.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Diabetic CKD with eGFR 36 and macroalbuminuria, A1c 9.4%, co-managed with nephrology.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Diabetic nephropathy confirmed via renal biopsy, eGFR 37, started on finerenone for renal protection.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Diabetic nephropathy confirmed via renal biopsy, eGFR 38, started on finerenone for renal protection.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Diabetic CKD with eGFR 25 and macroalbuminuria, A1c 8.9%, co-managed with nephrology.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Diabetic nephropathy confirmed via renal biopsy, eGFR 41, started on finerenone for renal protection.",Fully Supported,E1122,HCC37,0.166
+SP_DIABETES,"Sugars running a bit high lately around A1c 7.7%, will adjust insulin dose.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,Possible early diabetic nephropathy suspected given creatinine trending up over 2 months; nephrology referral pending.,Insufficient,E1122,HCC37,0.166
+SP_DIABETES,Possible early diabetic nephropathy suspected given creatinine trending up over 4 months; nephrology referral pending.,Insufficient,E1122,HCC37,0.166
+SP_DIABETES,"Sugars running a bit high lately around A1c 8.9%, will adjust insulin dose.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,"Sugars running a bit high lately around A1c 9.2%, will adjust insulin dose.",Insufficient,E1122,HCC37,0.166
+SP_DIABETES,Possible early diabetic nephropathy suspected given creatinine trending up over 6 months; nephrology referral pending.,Insufficient,E1122,HCC37,0.166
+SP_DIABETES,Repeat renal biopsy ruled out diabetic nephropathy; proteinuria due to unrelated glomerular disease.,Unsupported,E1122,HCC37,0.166
+SP_DIABETES,"Here for med refill visit, no diabetes-related concerns raised.",Unsupported,E1122,HCC37,0.166
+SP_DIABETES,Nephrology workup ruled out diabetic nephropathy; proteinuria due to unrelated glomerular disease.,Unsupported,E1122,HCC37,0.166
+SP_DIABETES,"Here for follow-up appointment, no diabetes-related concerns raised.",Unsupported,E1122,HCC37,0.166
+SP_DIABETES,"Here for routine wellness visit, no diabetes-related concerns raised.",Unsupported,E1122,HCC37,0.166
+SP_CHF,"Systolic heart failure, EF 31%, NYHA class III, on optimized medical therapy for 22 months.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Chronic heart failure with reduced ejection fraction 37%, stable on guideline-directed therapy for over a year.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Chronic heart failure with reduced ejection fraction 34%, stable on guideline-directed therapy for over a year.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Systolic heart failure, EF 38%, NYHA class III, on optimized medical therapy for 21 months.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Chronic heart failure with reduced ejection fraction 27%, stable on guideline-directed therapy for over a year.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Systolic heart failure, EF 31%, NYHA class III, on optimized medical therapy for 20 months.",Fully Supported,I509,HCC226,0.36
+SP_CHF,"Hospitalized 4 weeks ago for acute decompensated heart failure, now recovering at home.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Hospitalized 3 weeks ago for acute decompensated heart failure, now recovering at home.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Hospitalized 2 weeks ago for acute decompensated heart failure, now recovering at home.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Possible early heart failure given occasional ankle edema, echo pending to confirm.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Hospitalized 1 weeks ago for acute decompensated heart failure, now recovering at home.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Possible early heart failure given slight dyspnea on exertion, echo pending to confirm.",Insufficient,I509,HCC226,0.36
+SP_CHF,"Heart failure was suspected given edema, but echo ruled out any cardiac dysfunction; EF 61%.",Unsupported,I509,HCC226,0.36
+SP_CHF,"No cardiac complaints, here for annual labs.",Unsupported,I509,HCC226,0.36
+SP_CHF,"No cardiac complaints, here for blood pressure check.",Unsupported,I509,HCC226,0.36
+SP_CHF,"No cardiac complaints, here for vaccination.",Unsupported,I509,HCC226,0.36
+SP_CHF,"Heart failure was suspected given edema, but echo ruled out any cardiac dysfunction; EF 62%.",Unsupported,I509,HCC226,0.36
+SP_CHF,"Heart failure was suspected given edema, but echo ruled out any cardiac dysfunction; EF 59%.",Unsupported,I509,HCC226,0.36
+SP_COPD,"COPD with FEV1/FVC ratio reduced, 4 exacerbations requiring steroid bursts this year.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Severe COPD confirmed on PFTs, FEV1 42% predicted, on long-term oxygen therapy.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Severe COPD confirmed on PFTs, FEV1 44% predicted, on long-term oxygen therapy.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Severe COPD confirmed on PFTs, FEV1 33% predicted, on long-term oxygen therapy.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"COPD with FEV1/FVC ratio reduced, 2 exacerbations requiring steroid bursts this year.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Severe COPD confirmed on PFTs, FEV1 41% predicted, on long-term oxygen therapy.",Fully Supported,J449,HCC280,0.319
+SP_COPD,"Some wheezing noted most mornings, inhaler use as needed.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Some wheezing noted occasionally, inhaler use as needed.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Possible COPD given smoking history of 33 pack-years, spirometry scheduled but not yet done.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Possible COPD given smoking history of 34 pack-years, spirometry scheduled but not yet done.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Possible COPD given smoking history of 21 pack-years, spirometry scheduled but not yet done.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Possible COPD given smoking history of 23 pack-years, spirometry scheduled but not yet done.",Insufficient,J449,HCC280,0.319
+SP_COPD,"Routine visit for pneumonia vaccination, respiratory exam normal.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Chronic cough for 6 weeks, workup ruled out COPD; spirometry normal, attributed to postnasal drip.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Chronic cough for 4 weeks, workup ruled out COPD; spirometry normal, attributed to postnasal drip.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Routine visit for shingles vaccination, respiratory exam normal.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Chronic cough for 8 weeks, workup ruled out COPD; spirometry normal, attributed to postnasal drip.",Unsupported,J449,HCC280,0.319
+SP_COPD,"Chronic cough for 5 weeks, workup ruled out COPD; spirometry normal, attributed to postnasal drip.",Unsupported,J449,HCC280,0.319
+SP_CHRNKIDN,"Stage 5 CKD, eGFR 8, transplant evaluation in progress, dietary restrictions reviewed.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"ESRD, hemodialysis 3x weekly, access via AV graft, nephrology managing closely.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Stage 5 CKD, eGFR 9, transplant evaluation in progress, dietary restrictions reviewed.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"ESRD, hemodialysis 3x weekly, access via AV fistula, nephrology managing closely.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Stage 5 CKD, eGFR 14, transplant evaluation in progress, dietary restrictions reviewed.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Stage 5 CKD, eGFR 13, transplant evaluation in progress, dietary restrictions reviewed.",Fully Supported,N185,HCC326,0.815
+SP_CHRNKIDN,"Kidney function a bit off on labs from 2 months ago, will recheck.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Kidney function a bit off on labs from 1 months ago, will recheck.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Kidney function a bit off on labs from 3 months ago, will recheck.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Kidney function a bit off on labs from 4 months ago, will recheck.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Kidney function a bit off on labs from 5 months ago, will recheck.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Kidney function a bit off on labs from 6 months ago, will recheck.",Insufficient,N185,HCC326,0.815
+SP_CHRNKIDN,"Here for metoprolol refill, renal labs not reviewed today.",Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,AKI from contrast exposure 2 weeks ago ruled out as chronic; renal function returned to baseline normal.,Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,"Here for lisinopril refill, renal labs not reviewed today.",Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,AKI from contrast exposure 4 weeks ago ruled out as chronic; renal function returned to baseline normal.,Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,AKI from contrast exposure 6 weeks ago ruled out as chronic; renal function returned to baseline normal.,Unsupported,N185,HCC326,0.815
+SP_CHRNKIDN,"Here for atorvastatin refill, renal labs not reviewed today.",Unsupported,N185,HCC326,0.815
+SP_STRKETIA,"Ischemic stroke confirmed on MRI 8 months ago, residual mild word-finding difficulty, on dual antiplatelet therapy.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Ischemic stroke confirmed on MRI 3 months ago, residual mild word-finding difficulty, on dual antiplatelet therapy.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Cerebral infarct in right MCA territory confirmed on CT, currently in speech therapy for residual aphasia.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Ischemic stroke confirmed on MRI 9 months ago, residual mild word-finding difficulty, on dual antiplatelet therapy.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Ischemic stroke confirmed on MRI 4 months ago, residual mild word-finding difficulty, on dual antiplatelet therapy.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Ischemic stroke confirmed on MRI 10 months ago, residual mild word-finding difficulty, on dual antiplatelet therapy.",Fully Supported,I639,HCC249,0.239
+SP_STRKETIA,"Some balance issues for the past 1 weeks, neuro following loosely.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Some balance issues for the past 6 weeks, neuro following loosely.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,Possible small stroke suspected given transient confusion episode 12 days ago; MRI pending.,Insufficient,I639,HCC249,0.239
+SP_STRKETIA,Possible small stroke suspected given transient confusion episode 11 days ago; MRI pending.,Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Some balance issues for the past 2 weeks, neuro following loosely.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,"Some balance issues for the past 3 weeks, neuro following loosely.",Insufficient,I639,HCC249,0.239
+SP_STRKETIA,Acute stroke was suspected on presentation 10 days ago but imaging ruled out infarct; diagnosed as complex migraine instead.,Unsupported,I639,HCC249,0.239
+SP_STRKETIA,Acute stroke was suspected on presentation 3 days ago but imaging ruled out infarct; diagnosed as complex migraine instead.,Unsupported,I639,HCC249,0.239
+SP_STRKETIA,"Medication review, neurologic exam grossly normal.",Unsupported,I639,HCC249,0.239
+SP_STRKETIA,Acute stroke was suspected on presentation 14 days ago but imaging ruled out infarct; diagnosed as complex migraine instead.,Unsupported,I639,HCC249,0.239
+SP_STRKETIA,Acute stroke was suspected on presentation 1 days ago but imaging ruled out infarct; diagnosed as complex migraine instead.,Unsupported,I639,HCC249,0.239
+SP_STRKETIA,Acute stroke was suspected on presentation 6 days ago but imaging ruled out infarct; diagnosed as complex migraine instead.,Unsupported,I639,HCC249,0.239
+SP_ALZHDMTA,"Alzheimer's dementia confirmed via neuropsych evaluation, MMSE 16/30, now requires full-time caregiver support.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"Moderate dementia, MMSE 17/30, family reports patient now lost while driving, license revoked.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"Alzheimer's dementia confirmed via neuropsych evaluation, MMSE 13/30, now requires full-time caregiver support.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"Moderate dementia, MMSE 10/30, family reports patient now lost while driving, license revoked.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"Alzheimer's dementia confirmed via neuropsych evaluation, MMSE 12/30, now requires full-time caregiver support.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"Alzheimer's dementia confirmed via neuropsych evaluation, MMSE 10/30, now requires full-time caregiver support.",Fully Supported,G309,HCC127,0.341
+SP_ALZHDMTA,"A little more confused than usual over the past 6 weeks, family keeping an eye on it.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"A little more confused than usual over the past 5 weeks, family keeping an eye on it.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"A little more confused than usual over the past 4 weeks, family keeping an eye on it.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"A little more confused than usual over the past 8 weeks, family keeping an eye on it.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"A little more confused than usual over the past 3 weeks, family keeping an eye on it.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"A little more confused than usual over the past 7 weeks, family keeping an eye on it.",Insufficient,G309,HCC127,0.341
+SP_ALZHDMTA,"Here for flu shot, cognition not addressed.",Unsupported,G309,HCC127,0.341
+SP_ALZHDMTA,"Here for vision check, cognition not addressed.",Unsupported,G309,HCC127,0.341
+SP_ALZHDMTA,"Memory complaints worked up and dementia ruled out; attributed to a sleep aid, since resolved.",Unsupported,G309,HCC127,0.341
+SP_ALZHDMTA,"Memory complaints worked up and dementia ruled out; attributed to a sedative, since resolved.",Unsupported,G309,HCC127,0.341
+SP_ALZHDMTA,"Memory complaints worked up and dementia ruled out; attributed to an anticholinergic medication, since resolved.",Unsupported,G309,HCC127,0.341
+SP_RA_OA,"Seropositive RA, DAS28 4.5, escalating to combination DMARD therapy due to inadequate response.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Seropositive RA, DAS28 6.3, escalating to combination DMARD therapy due to inadequate response.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Seropositive RA, DAS28 6.4, escalating to combination DMARD therapy due to inadequate response.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Rheumatoid arthritis confirmed, positive RF and anti-CCP, active synovitis in knees and wrists bilaterally, started biologic therapy.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Seropositive RA, DAS28 4.9, escalating to combination DMARD therapy due to inadequate response.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Rheumatoid arthritis confirmed, positive RF and anti-CCP, active synovitis in MCP joints bilaterally, started biologic therapy.",Fully Supported,M069,HCC93,0.617
+SP_RA_OA,"Some joint discomfort for 4 weeks, hands mostly, no clear diagnosis yet.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Some joint discomfort for 2 weeks, hands mostly, no clear diagnosis yet.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Some joint discomfort for 6 weeks, hands mostly, no clear diagnosis yet.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Some joint discomfort for 7 weeks, hands mostly, no clear diagnosis yet.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Some joint discomfort for 5 weeks, hands mostly, no clear diagnosis yet.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Some joint discomfort for 8 weeks, hands mostly, no clear diagnosis yet.",Insufficient,M069,HCC93,0.617
+SP_RA_OA,"Here for flu shot, joints not examined today.",Unsupported,M069,HCC93,0.617
+SP_RA_OA,"Here for annual physical, joints not examined today.",Unsupported,M069,HCC93,0.617
